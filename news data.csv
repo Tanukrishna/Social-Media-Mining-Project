@@ -1,0 +1,996 @@
+neg,neu,pos,compound,news_headlines,label
+0.147,0.686,0.167,0.0516,Thousands of Amazon workers demand time off to vote,0
+0.135,0.702,0.164,0.128,"United CEO doubles down in email to employees, says passenger was 'disruptive and belligerent'",1
+0.0,1.0,0.0,0.0,For the first time in 25 years New York City didn't have a single shooting over the weekend,0
+0.423,0.577,0.0,-0.6597,Biden calls mass killing of Armenians genocide,-1
+0.373,0.508,0.119,-0.7184,Tennessee Police Officers Could Be Charged With A Felony For Turning Off Body Cams In Bad Faith,-1
+0.0,0.841,0.159,0.1779,Amazon raises minimum wage to $15 for all US employees,1
+0.136,0.748,0.116,-0.0772,Amazon employees plan ‘online walkout’ to protest firings and treatment of warehouse workers,0
+0.344,0.656,0.0,-0.743,Kentucky teen who sued over school ban for refusing chickenpox vaccination now has chickenpox,-1
+0.159,0.58,0.261,0.34,Sheriff who refused to enforce restrictions tests positive for Covid-19,1
+0.182,0.588,0.229,0.2023,Bloomberg drops out of 2020 presidential race after poor Super Tuesday showing,1
+0.175,0.723,0.102,-0.296,California court rules Amazon can be liable for defective goods sold on its marketplace,-1
+0.0,0.866,0.134,0.1779,Costco lifts minimum wage above Amazon or Target to $16 per hour,1
+0.0,0.8,0.2,0.128,China Shuts Down Its Legal Ivory Trade,1
+0.468,0.532,0.0,-0.5267,Michael Cohen sentenced to 3 years in prison,-1
+0.169,0.692,0.138,-0.1027,Louisville's top cops refuse to answer questions on Breonna Taylor case,-1
+0.215,0.604,0.181,-0.128,Man jailed for life over $20 marijuana sale has been freed,-1
+0.389,0.611,0.0,-0.7906,"Autopsy finds broken bones in Jeffrey Epstein’s neck, deepening questions around his death",-1
+0.0,1.0,0.0,0.0,Dominion Voting sues Fox for $1.6B over 2020 election claims,0
+0.0,0.795,0.205,0.2023,Trump Foundation agrees to dissolve under court supervision,1
+0.0,1.0,0.0,0.0,Vermont Senate legalizes recreational pot,0
+0.0,0.823,0.177,0.4215,Mississippi Votes to End Jim Crow Electoral College-Like System; Popular Vote to Choose Governor,1
+0.365,0.635,0.0,-0.3182,Acting Navy Secretary Modly resigns,-1
+0.0,1.0,0.0,0.0,Prosecutors formally request to talk with Prince Andrew in Epstein investigation,0
+0.0,0.721,0.279,0.4767,Proud Boys leader was ‘prolific’ informer for law enforcement,1
+0.0,1.0,0.0,0.0,Former First Lady Barbara Bush dies at 92,0
+0.173,0.751,0.075,-0.4019,Tennessee police chief tells officers they now must intervene when others are abusing their authority,-1
+0.0,1.0,0.0,0.0,"W.Va. delegate, just sworn in, was among the mob storming U.S. Capitol",0
+0.337,0.59,0.073,-0.8225,Religious Parents Who Refused to Take Son to Hospital and Thought God Would Resurrect Him Found Guilty of First Degree Murder.,-1
+0.491,0.509,0.0,-0.891,"Deputy who killed himself left haunting videos on racist policing, division: 'I've had enough'",-1
+0.634,0.366,0.0,-0.886,"Actresses, CEOs arrested in nationwide college admissions cheating scam",-1
+0.209,0.696,0.096,-0.3182,'White Lives Matter' rallies flop as hardly anyone shows up,-1
+0.29,0.71,0.0,-0.6705,Canada: At least 10 people killed after mass shooting in Nova Scotia,-1
+0.0,1.0,0.0,0.0,Hong Kong formally withdrawals extradition bill.,0
+0.094,0.671,0.235,0.4767,Texas Roadhouse CEO forgoes salary and bonus to pay front-line restaurant employees,1
+0.281,0.596,0.123,-0.5719,"DC protester arrested with 11 Molotov cocktails, several guns had list of 'good guys,' 'bad guys': DOJ",-1
+0.192,0.808,0.0,-0.2263,Portland mayor demands removal of camouflage-clad agents detaining protesters,-1
+0.0,0.894,0.106,0.2263,Mystery person buys $1M worth of remaining toys at Toys 'R' Us store to donate to kids,1
+0.28,0.561,0.159,-0.1531,Former Buffalo officer who stopped fellow cop's chokehold on suspect will get pension after winning lawsuit,-1
+0.286,0.714,0.0,-0.7184,Judge Who Advised Woman to 'Close Your Legs' to Avoid Sexual Assault Permanently Removed From the Bench,-1
+0.286,0.714,0.0,-0.4215,Man who plowed into Charlottesville crowd found guilty,-1
+0.0,1.0,0.0,0.0,Comcast deleted net neutrality pledge the same day FCC announced repeal,0
+0.0,0.863,0.137,0.2263,U.S. vaccination pace holds above 3 million shots per day for two weeks straight,1
+0.0,1.0,0.0,0.0,"Bitcoin investors may be out $190 million after the only guy with the password dies, firm says",0
+0.155,0.645,0.2,0.1779,U.S. Intelligence Publicly Accuses Iran and Russia of Interfering in 2020 Election,1
+0.0,1.0,0.0,0.0,Half of Slovakia's population tested for coronavirus in one day,0
+0.0,0.605,0.395,0.7596,Supreme Court rules workers can't be fired for being gay or transgender,1
+0.127,0.667,0.206,0.3182,Liberty University presses charges against journalists who covered campus being open during outbreak,1
+0.0,1.0,0.0,0.0,"'I can't breathe,' Oklahoma man tells police before dying. 'I don't care,' officer responds.",0
+0.06,0.94,0.0,-0.2023,"Man charged with infecting 22 people with Covid after going to gym and work with symptoms. He told colleagues ‘I’m going to give you all the coronavirus’, police say",-1
+0.0,1.0,0.0,0.0,Alabama city removes Confederate statue without notice,0
+0.0,1.0,0.0,0.0,President Trump has been impeached,0
+0.0,0.797,0.203,0.4215,The United States is now averaging 2 million vaccine doses administered per day.,1
+0.241,0.759,0.0,-0.2263,Net neutrality protesters take to the streets,-1
+0.0,1.0,0.0,0.0,Las Vegas workers push back after mayor's call to reopen casinos and hotels,0
+0.0,1.0,0.0,0.0,Billboards target lawmakers who voted to let ISPs sell user information,0
+0.504,0.496,0.0,-0.7269,Brock Turner Loses Appeal of Sexual Assault Conviction,-1
+0.222,0.778,0.0,-0.25,Dozens protest against China during US NBA game,-1
+0.55,0.45,0.0,-0.9001,Amber Guyger found guilty of murder in fatal shooting of Botham Jean,-1
+0.38,0.62,0.0,-0.5994,U.S. court: Mass surveillance program exposed by Snowden was illegal,-1
+0.0,1.0,0.0,0.0,Microsoft tried a 4-day workweek in Japan. Productivity jumped 40%,0
+0.409,0.591,0.0,-0.8074,Son of Butler Co. judge receives no prison time after pleading guilty to child porn,-1
+0.374,0.549,0.077,-0.8442,Ohio mayor calls for 'immediate termination' of officer who shot and killed a Black man 'who had committed no crime',-1
+0.181,0.766,0.052,-0.6369,The parents of a nonverbal man killed by an off-duty officer in Costco say they want to see video of the shooting,-1
+0.137,0.863,0.0,-0.2263,Commonwealth’s Attorney: Man who drove through group of protesters is leader of KKK,-1
+0.0,0.75,0.25,0.4588,"Breonna Taylor grand jury members allowed to speak, judge says",1
+0.34,0.66,0.0,-0.7717,"Family of Tyson employee in Iowa who died of COVID-19 sues company, alleging gross negligence",-1
+0.0,1.0,0.0,0.0,Twitter permanently suspends Trump’s account,0
+0.097,0.728,0.175,0.3818,A 21-year-old college student worked at a Texas hotel for 32 hours alone during a flood. Guests say he's a hero,1
+0.0,1.0,0.0,0.0,Bill Gates and Melinda Gates are splitting up after 27 years,0
+0.328,0.672,0.0,-0.6597,Microsoft co-founder Paul Allen dies of cancer at age 65,-1
+0.543,0.457,0.0,-0.8176,School board gets death threats after teacher handcuffed after questioning pay raise,-1
+0.0,1.0,0.0,0.0,Protestors attempting to rip down confederate monuments - Birmingham AL,0
+0.462,0.538,0.0,-0.8225,One dead in Louisville after police and national guard 'return fire' on protesters,-1
+0.098,0.699,0.203,0.3612,"Couple who uprooted 180-year-old tree on protected property ordered to pay $586,000",1
+0.449,0.551,0.0,-0.9081,"Boy, 16, fatally shot while trying to sell Xbox: 'They killed my son over nothing,' mom cries",-1
+0.0,0.901,0.099,0.0258,Sailor aboard USS Theodore Roosevelt has passed away due to COVID-19,0
+0.0,0.69,0.31,0.4019,New York City declares Juneteenth official holiday,1
+0.0,1.0,0.0,0.0,"Ann Arbor decriminalizes magic mushrooms, psychedelic plants",0
+0.31,0.69,0.0,-0.5574,"Prince Philip has died aged 99, Buckingham Palace announces",-1
+0.394,0.529,0.076,-0.7506,"Mars, Nestlé and Hershey to face landmark child slavery lawsuit in US",-1
+0.137,0.863,0.0,-0.2263,Apple removes police-tracking app used in Hong Kong protests from its app store,-1
+0.178,0.632,0.19,0.0516,The Gorilla Foundation is sad to announce the passing of our beloved Koko,0
+0.437,0.563,0.0,-0.4767,Wikileaks co-founder Julian Assange arrested,-1
+0.0,1.0,0.0,0.0,Slave labor found at Starbucks-certified Brazil coffee plantation,0
+0.156,0.704,0.141,-0.0772,Stan Lee’s daughter: ‘No one could have treated my father worse than Marvel and Disney’s executives’,0
+0.427,0.47,0.103,-0.8225,Police officers shoot and kill Los Angeles security guard: 'He ran because he was scared',-1
+0.0,1.0,0.0,0.0,Sen. Mitch McConnell's home in Kentucky vandalized,0
+0.0,1.0,0.0,0.0,Marine commandant banishes Confederate symbols from all Corps installations,0
+0.22,0.6,0.18,0.0516,Supreme Court strikes down Louisiana law that would have limited state to one abortion clinic,0
+0.0,1.0,0.0,0.0,Biden revokes presidential permit for Keystone XL pipeline expansion on 1st day,0
+0.0,0.526,0.474,0.5574,Supreme Court legalizes gay marriage,1
+0.375,0.625,0.0,-0.5859,'I’m getting shot': attacks on journalists surge in US protests,-1
+0.16,0.84,0.0,-0.2263,"NYPD used excessive force during George Floyd protests, city investigation finds",-1
+0.476,0.524,0.0,-0.872,Ex-detective charged in death of Ahmaud Arbery lost power to make arrests after skipping use-of-force training,-1
+0.0,1.0,0.0,0.0,"Jessica Walter Dies: Emmy-Winning ‘Arrested Development’, ‘Archer’ Actress Was 80",0
+0.0,0.632,0.368,0.3612,Global warming: April was 400th straight warmer-than-average month,1
+0.0,1.0,0.0,0.0,American-born citizen sues sheriff after he was nearly deported to Jamaica,0
+0.286,0.714,0.0,-0.7783,"Terry Crews Testifies Before Senate On Sexual Assault, Says He Won’t Be In ‘Expendables 4’ After Producer Threatened “Trouble”",-1
+0.398,0.602,0.0,-0.765,"Dallas officer goes home to wrong apartment, kills man inside, police say",-1
+0.0,1.0,0.0,0.0,Italy bans unvaccinated children from school,0
+0.225,0.775,0.0,-0.4404,KKK denied permit to burn cross atop symbolic mountain in Georgia,-1
+0.0,1.0,0.0,0.0,"Dog days of Florida come to an end, with total demise of U.S. greyhound racing within sight",0
+0.158,0.842,0.0,-0.4939,Boy who suffered up to 100 seizures a day has none in 300 days after being prescribed cannabis oil,-1
+0.0,0.892,0.108,0.1779,"Jeff Bezos to step down as Amazon CEO, Andy Jassy to take over in Q3",1
+0.211,0.789,0.0,-0.34,Man Sues Police After Being Pepper-Sprayed While Filming Son’s Arrest,-1
+0.149,0.851,0.0,-0.2732,Entire staffs at 3 Sonic locations quit after wages cut to $4/hour plus tips,-1
+0.31,0.69,0.0,-0.5574,Florida insurance agent fired after mask meltdown at Costco,-1
+0.146,0.854,0.0,-0.5574,New York Gov. Cuomo signs executive order that allows store owners the right to ban any customer that enters without wearing a mask.,-1
+0.0,1.0,0.0,0.0,Suspension Lifted of Georgia Student Who Posted Photos of Crowded Hall,0
+0.196,0.804,0.0,-0.5994,"Man dies after police kneel on his neck for nearly 5 minutes, family says in wrongful death claim",-1
+0.297,0.507,0.196,-0.34,"Shopify removes Trump stores, citing president's support for violence",-1
+0.351,0.649,0.0,-0.8442,Minnesota police chief says officer who fired single shot that killed a Black man intended to discharge a Taser,-1
+0.07,0.93,0.0,-0.128,"Los Angeles Mayor Eric Garcetti, City Officials Cutting $100-$150 Million From LAPD Budget, Funds To Be Reinvested In Communities Of Color",-1
+0.293,0.707,0.0,-0.6597,Doctor who tweeted that she would give Jews the wrong medication loses ohio medical certificate,-1
+0.423,0.577,0.0,-0.8313,Colorado district attorney 'incredibly frustrated' he's unable to prosecute cop found drunk in patrol car,-1
+0.0,1.0,0.0,0.0,Actor Kal Penn raises $160k in few hours for Syrian refugees after being told he 'doesn't belong in America',0
+0.0,1.0,0.0,0.0,NASA Fixes Mars Lander By Telling It to Hit Itself With a Shovel,0
+0.364,0.636,0.0,-0.6124,Nestle illegally fires worker for reporting racist comment,-1
+0.195,0.805,0.0,-0.4404,"Agents find sniper rifle, stash of weapons in home of “Zip Tie Guy”",-1
+0.0,0.726,0.274,0.5267,Justice Department says it will end use of private prisons,1
+0.286,0.714,0.0,-0.5574,California Becomes First State to Ban Sales From Puppy Mills,-1
+0.223,0.777,0.0,-0.3182,Ghislaine Maxwell loses bid to keep deposition excerpt secret,-1
+0.0,1.0,0.0,0.0,Nepal says its tiger population has almost doubled from 2009,0
+0.511,0.489,0.0,-0.8555,"Bond denied for father, son charged with murder in Ahmaud Arbery case",-1
+0.205,0.682,0.114,-0.296,Exclusive: Georgia doctor who forcibly sterilized detained women has been identified,-1
+0.124,0.784,0.092,-0.128,Report: Sen. Graham pressured Ga. secretary of state to throw out legally cast ballots,-1
+0.237,0.763,0.0,-0.4767,Three Texas soldiers arrested in child prostitution sting near Fort Hood,-1
+0.0,1.0,0.0,0.0,NYC to terminate Trump contracts after Capitol insurrection,0
+0.278,0.722,0.0,-0.6124,"Video shows Minneapolis cop with knee on neck of motionless, moaning man who later died",-1
+0.509,0.491,0.0,-0.8074,White supremacists behind majority of US domestic terror attacks in 2020,-1
+0.302,0.698,0.0,-0.5994,"Police officers, not drugs, caused George Floyd’s death, a pathologist testifies.",-1
+0.0,0.781,0.219,0.4215,26 women rescued at Seattle massage parlors in human trafficking bust,1
+0.429,0.571,0.0,-0.7184,U.S. Launches Missiles at Syrian Base After Chemical Weapons Attack,-1
+0.0,1.0,0.0,0.0,Virginia's governor signs legislation banning no-knock warrants,0
+0.121,0.879,0.0,-0.296,"Nestle has been bottling and selling water it has no right to in drought-stricken California, state says",-1
+0.265,0.735,0.0,-0.5574,Police Officers sue Donald Trump for injuries resulting from capital riot,-1
+0.333,0.531,0.135,-0.4767,1st black woman legislator in Vermont resigns after white supremacists threaten safety of her family,-1
+0.0,0.625,0.375,0.5574,Sen. Ron Johnson tests positive for COVID-19,1
+0.0,1.0,0.0,0.0,California bans gender in setting car insurance rates,0
+0.132,0.694,0.174,0.1531,"Fox News supports CNN in lawsuit against White House, network's president says",1
+0.0,0.66,0.34,0.5574,Kentucky Sen. Rand Paul tests positive for coronavirus,1
+0.0,1.0,0.0,0.0,Explosive Devices Found in Mail Sent to Hillary Clinton and Obama,0
+0.0,1.0,0.0,0.0,Medical Marijuana passes VA Senate 40-0.,0
+0.139,0.745,0.116,-0.12,Judge denies bail for Ghislaine Maxwell after she pleads not guilty in Jefferey Epstein sex crimes case,-1
+0.0,1.0,0.0,0.0,Christopher Columbus statue beheaded in Boston,0
+0.0,1.0,0.0,0.0,Mask order issued for entire state of Texas,0
+0.451,0.549,0.0,-0.802,"Jeffrey Epstein denied bail, will remain jailed pending trial on sex trafficking charges",-1
+0.379,0.621,0.0,-0.7717,Dallas police accused of smearing man killed by cop in his own apartment,-1
+0.0,0.816,0.184,0.4019,Same-sex penguin couple welcomes baby chick after adopting and hatching an egg together,1
+0.0,1.0,0.0,0.0,Marine Corps Bans Public Display of Confederate Flag,0
+0.714,0.286,0.0,-0.875,Chris Brown detained on suspicion of rape,-1
+0.191,0.617,0.191,0.0,"Proud Boys' leader Enrique Tarrio arrested in DC, law enforcement sources say",0
+0.18,0.7,0.12,-0.296,Teacher says she was fired for giving zeroes to students who didn't turn in their work,-1
+0.504,0.496,0.0,-0.7964,Texas megachurch pastor sent to prison for fraud scheme,-1
+0.18,0.82,0.0,-0.296,Navajo Nation has no COVID-related deaths for 7th day in row,-1
+0.236,0.764,0.0,-0.4019,Calls grow louder to boycott Beijing’s Olympics — and analysts warn of retaliation from China,-1
+0.275,0.725,0.0,-0.5859,"Dominion sues Mike Lindell, the MyPillow chief, over election fraud claims.",-1
+0.0,0.84,0.16,0.2263,50 Cent forgot he had a stash of Bitcoin now worth $8m,1
+0.0,0.805,0.195,0.4404,"In blow to Trump, golf’s PGA to strip major championship from Trump-owned course",1
+0.0,1.0,0.0,0.0,GameStop to permanently close over 300 stores,0
+0.0,0.846,0.154,0.25,"Verizon VP jokes at planting a 'brainwashed' FCC chairman, Ajit Pai says 'awesome'",1
+0.0,0.775,0.225,0.4404,Millennials earn 20% less than baby boomers did—despite being better educated,1
+0.27,0.566,0.164,-0.4019,BBC Investigation: The 'dead voters' in Michigan who are still alive,-1
+0.0,0.702,0.298,0.1779,Fastest growing religion is ‘none’,1
+0.205,0.795,0.0,-0.2023,R. Kelly Charged With Underage Prostitution in Minnesota,-1
+0.106,0.894,0.0,-0.2263,"NYPD cruisers drive into protesters who were pelting, pushing barricade against police car, knocking several to ground",-1
+0.247,0.753,0.0,-0.3182,Hospitals Sued to Keep Prices Secret. They Lost.,-1
+0.0,0.571,0.429,0.7184,"Thailand cave rescue: All 12 boys, coach freed, latest updates",1
+0.0,0.828,0.172,0.4019,"Publix buys 5 million pounds of produce to support local farmers, donates to food banks",1
+0.0,0.684,0.316,0.5719,91-year-old mailman retires after 69 years with perfect record,1
+0.261,0.739,0.0,-0.6808,"On-duty NYPD officers 'handcuffed 17-year-old girl, took her to deserted spot and raped her'",-1
+0.326,0.523,0.151,-0.4588,12 million Americans set to lose unemployment benefits the day after Christmas,-1
+0.0,1.0,0.0,0.0,Biden orders US flags flown at half-staff after Atlanta shootings,0
+0.2,0.8,0.0,-0.4588,"Nike, Apple among dozens of major brands implicated in report on forced labour",-1
+0.388,0.612,0.0,-0.6908,Judge Rejects Last-Minute Claim That Pence Can Ignore States' Presidential Electors,-1
+0.16,0.84,0.0,-0.2263,"Texan files $1 billion class-action lawsuit after receiving $9,000 electric bill",-1
+0.0,1.0,0.0,0.0,Neo-Nazi who said homosexuality was 'unnatural' revealed as paedophile who groomed young boys,0
+0.0,0.822,0.178,0.3818,"Ikea bought 11,000 acres of forest in Georgia to protect it from development",1
+0.0,1.0,0.0,0.0,Kim Jong Un Allegedly in a 'vegetative state' after heart surgery - Japanese Media,0
+0.0,0.827,0.173,0.3182,Comcast quietly drops promise not to charge tolls for Internet fast lanes,1
+0.481,0.519,0.0,-0.7579,Man who filmed Ahmaud Arbery video charged with murder,-1
+0.0,0.608,0.392,0.5859,"Illinois’ Top Legal Officer Wants To License Cops, Just Like Doctors, Hairdressers",1
+0.31,0.69,0.0,-0.6597,Texas real estate agent who took private jet to D.C. charged in Capitol riot,-1
+0.155,0.845,0.0,-0.296,K-9 finds missing 3-year-old Florida boy with autism in less than 30 minutes,-1
+0.174,0.826,0.0,-0.2263,"Lawsuit: Cops ‘stomped’ on pregnant black woman’s stomach, causing miscarriage",-1
+0.237,0.763,0.0,-0.4767,YouTube Suspends OANN for a Week After It Posted Fake Covid-19 Cure,-1
+0.0,1.0,0.0,0.0,"Police chief: If you think Floyd video shows reasonable force, turn your badge in - CNN Video",0
+0.209,0.608,0.182,-0.1027,"Man arrested after cops mistook doughnut glaze for meth awarded $37,500",-1
+0.15,0.85,0.0,-0.3182,"Melvin Capital, hedge fund that bet against GameStop, lost more than 50% in January",-1
+0.16,0.84,0.0,-0.2263,Breonna Taylor's boyfriend Kenneth Walker files federal lawsuit against Louisville police,-1
+0.0,1.0,0.0,0.0,Twitter permanently suspends Steve Bannon account after talk of beheading,0
+0.0,1.0,0.0,0.0,Epstein jail guards had been offered plea deal,0
+0.318,0.682,0.0,-0.4939,REPORT: Kenosha man charged with illegally buying gun for Kyle Rittenhouse,-1
+0.0,0.735,0.265,0.5574,"Ronna McDaniel, chairwoman of the R.N.C., tests positive for the coronavirus.",1
+0.247,0.753,0.0,-0.5574,Woman Is Fired After Calling Police on Black Man in Central Park,-1
+0.149,0.683,0.168,0.0772,Police shoot 13-year-old boy with autism several times after mother calls for help,0
+0.325,0.675,0.0,-0.6486,Blizzard Employees Staged a Walkout After the Company Banned a Gamer for Pro-Hong Kong Views,-1
+0.0,1.0,0.0,0.0,"Mexico Set to Legalize Marijuana, Becoming World’s Largest Market",0
+0.218,0.545,0.237,-0.1744,Comcast fired 500 despite claiming tax cut would create thousands of jobs,-1
+0.206,0.794,0.0,-0.3818,Unpaid Kentucky coal miners have been blocking a train track for 3 weeks,-1
+0.0,0.622,0.378,0.8074,Kaepernick and Fauci will be honored as Robert F. Kennedy Human Rights award laureates,1
+0.097,0.903,0.0,-0.1027,All of West Virginia's public schools are closed due to a teacher walk-out over pay,-1
+0.495,0.346,0.159,-0.8934,Flood Destroys Home Of Hate Group Leader Who Claims God Sends Natural Disasters To Punish Gays,-1
+0.174,0.826,0.0,-0.2263,The White House website's page on climate change just disappeared,-1
+0.0,0.714,0.286,0.5574,Kellyanne Conway's daughter the latest to test positive for COVID-19,1
+0.0,1.0,0.0,0.0,"Disney World Closes Mask Loophole, Bans Eating And Drinking While Walking",0
+0.0,1.0,0.0,0.0,Town votes to rescind license of N.J. gym whose owners repeatedly defied coronavirus restrictions,0
+0.297,0.703,0.0,-0.765,"Cops arrest armed men, Texas bar owner who violated order to close - Sheriff said armed men were there to intimidate officers.",-1
+0.0,1.0,0.0,0.0,"Pet Store Bill Passes California Senate 38 to 0. It bans the sale of dogs, cats and rabbits sourced from high-volume, commercial breeding facilities, known as mills, in all pet shops throughout the state.",0
+0.0,1.0,0.0,0.0,GSA tells Biden that transition can formally begin,0
+0.244,0.756,0.0,-0.4939,Officer accused of pushing teen during protest has 71 use of force cases on file,-1
+0.236,0.764,0.0,-0.5267,"Illinois is going to expunge marijuana convictions from 800,000 criminal records - CNN",-1
+0.242,0.758,0.0,-0.4939,"Capitol rioter known as ""QAnon Shaman"" will be jailed until trial",-1
+0.286,0.714,0.0,-0.4215,Trump associate Roger Stone has been found guilty,-1
+0.0,1.0,0.0,0.0,Federal Court Rules Suspicionless Searches of Travelers’ Phones and Laptops Unconstitutional,0
+0.297,0.703,0.0,-0.5859,GRAPHIC VIDEO: Buffalo police officers violently shove man onto ground,-1
+0.371,0.629,0.0,-0.7096,National veterans groups plan to purge members found guilty in Capitol attack,-1
+0.305,0.695,0.0,-0.5719,"George Floyd protests: San Jose police fire rubber bullets at own bias trainer, rupture his testicle",-1
+0.242,0.604,0.154,-0.3182,FTC Shuts Down 4 Robocall Groups Responsible For Billions of Illegal Robocalls,-1
+0.407,0.593,0.0,-0.5859,Principal who banned gay books charged with child pornography,-1
+0.0,0.847,0.153,0.2023,OxyContin creator being sued for 'significant role in causing opioid epidemic',1
+0.0,1.0,0.0,0.0,Law Enforcement fires paint projectile at residents on porch during curfew,0
+0.252,0.748,0.0,-0.4019,Police Unions Lose Bid to Keep Disciplinary Records a Secret,-1
+0.35,0.65,0.0,-0.6486,Charles Manson Dead After Spending 46 Years Behind Bars,-1
+0.0,0.857,0.143,0.128,Recreational marijuana becomes legal in Illinois on New Years Day,1
+0.13,0.685,0.185,0.2023,Blizzard pulls Blitzchung from Hearthstone tournament over support for Hong Kong protests,1
+0.225,0.708,0.068,-0.7269,Three former executives of a French telecommunications giant have been found guilty of creating a corporate culture so toxic that 35 of their employees were driven to suicide,-1
+0.436,0.256,0.308,-0.128,U.S. Supreme Court rejects Texas lawsuit,-1
+0.174,0.826,0.0,-0.2263,1 of 2 protesters hit by car on closed Seattle highway dies,-1
+0.556,0.444,0.0,-0.8176,Jeopardy' host Alex Trebek has stage 4 pancreatic cancer,-1
+0.264,0.736,0.0,-0.6486,"Robert Trump, the younger brother of President Donald Trump, dead at age 72",-1
+0.183,0.583,0.233,0.1531,33 missing children rescued in Los Angeles trafficking operation,1
+0.0,1.0,0.0,0.0,Infowars’ Alex Jones ordered to undergo sworn deposition in Sandy Hook case,0
+0.0,0.803,0.197,0.4019,"Whistleblower claims Mormon Church stockpiled $100 billion in charitable donations, dodged taxes",1
+0.5,0.5,0.0,-0.7906,Officer accused of force in stop of Black Army officer fired,-1
+0.536,0.464,0.0,-0.886,Judge reinstates third-degree murder charge against ex-cop charged in George Floyd's death,-1
+0.312,0.573,0.115,-0.5859,"NFL Condems Racism, Admits “ We we’re wrong” Not to Listen to NFL Player Protests",-1
+0.0,1.0,0.0,0.0,NFL offers Biden all 32 football stadiums as mass Covid vaccination sites,0
+0.104,0.896,0.0,-0.2732,A Florida man just paid off the past dues for 114 families at risk of having their utilities shut off,-1
+0.0,0.714,0.286,0.5574,President Donald Trump says he has tested positive for coronavirus,1
+0.174,0.826,0.0,-0.2263,Recount in Wisconsin county demanded by Trump increases Biden's margin,-1
+0.153,0.847,0.0,-0.2023,"Thirteen Russians criminally charged for interfering in US election, Mueller announces",-1
+0.147,0.733,0.12,-0.1027,"Cops admit vandalizing cars of man who filed complaint against them, prosecutor says",-1
+0.147,0.853,0.0,-0.2263,Megathread: Pro-Trump protesters storm US Capitol during certification of Electoral College votes,-1
+0.186,0.814,0.0,-0.4939,80-year-old medical marijuana patient with expired card jailed for less than an eighth of cannabis,-1
+0.299,0.573,0.127,-0.5719,Ex-Arizona police officer acquitted of murder in shooting of unarmed man,-1
+0.173,0.705,0.122,-0.2023,"""Climate damn emergency"": Gov. Newsom signs bill to allow ex-inmates to become firefighters",-1
+0.0,1.0,0.0,0.0,"Mass. parents knew kid had coronavirus, sent him to 1st day of school anyway, officials say",0
+0.0,1.0,0.0,0.0,YouTube Bans Minors From Streaming Unless Accompanied by Adult,0
+0.355,0.645,0.0,-0.5267,Man who believed virus was hoax loses wife to Covid-19,-1
+0.182,0.758,0.061,-0.5267,Family of 11-year-old boy who died in Texas deep freeze files $100 million suit against power companies,-1
+0.322,0.529,0.149,-0.5574,Proud Boys leader Joseph Biggs arrested in Florida in connection with the Capitol riot,-1
+0.248,0.752,0.0,-0.3182,Police warn they may use live ammo on protesters in Hong Kong,-1
+0.231,0.769,0.0,-0.5859,A Navy veteran says he was beaten and pepper sprayed by authorities while attending his first protest in Portland,-1
+0.358,0.424,0.218,-0.0772,Disney heir criticises company over $1.5bn bonuses as it cuts pay,0
+0.328,0.672,0.0,-0.4404,"Christopher Columbus statue torn down, thrown in lake by protesters",-1
+0.448,0.552,0.0,-0.7579,Jeffrey Epstein Death: 2 Guards Slept Through Checks and Falsified Records,-1
+0.135,0.798,0.067,-0.2732,"Men accused of vandalizing Black Lives Matter sign in Westlake Village work for sheriff, DA",-1
+0.435,0.565,0.0,-0.6597,2 Virginia police officers face federal charges in Capitol riots,-1
+0.318,0.682,0.0,-0.6808,New Jersey police officer charged with assault after allegedly deploying pepper spray 'without provocation',-1
+0.0,1.0,0.0,0.0,Kamala Harris makes history as first woman of color elected US vice-president,0
+0.6,0.4,0.0,-0.7579,"Teacher accidentally fires gun in classroom, students injured",-1
+0.0,1.0,0.0,0.0,"Judge rules to unseal documents in 2015 case against Ghislaine Maxwell, Jeffrey Epstein's alleged accomplice",0
+0.0,0.73,0.27,0.5719,New Zealand election: Jacinda Ardern wins second term after rival concedes,1
+0.312,0.688,0.0,-0.6124,St. Louis police officers on trial for beating Black undercover detective during protest,-1
+0.0,0.889,0.111,0.128,"Colorado governor signs police accountability bill, ending qualified immunity defense in the state",1
+0.177,0.61,0.213,-0.1037,Governor DeSantis admits Florida’s unemployment system was designed to not pay out claims.,-1
+0.104,0.729,0.167,0.296,A teen who spent 10 hours cleaning up after a protest is rewarded with a car and a college scholarship,1
+0.0,0.619,0.381,0.8126,"Biden wins Georgia and Trump wins North Carolina, the final states to be called.",1
+0.386,0.614,0.0,-0.6597,Rush Limbaugh says his lung cancer is terminal,-1
+0.192,0.634,0.174,0.1665,"Police chief says he doesn't ""believe racism plays a role"" in NYPD, as protesters fill streets",1
+0.512,0.488,0.0,-0.8126,Black Army Medic Pepper-Sprayed in Traffic Stop Accuses Officers of Assault,-1
+0.0,1.0,0.0,0.0,New Hampshire Decriminalizes Marijuana,0
+0.0,1.0,0.0,0.0,"For the first time, girls were eligible to be Eagle Scouts -- and nearly 1,000 earned the elite rank",0
+0.32,0.68,0.0,-0.5106,"Venezuela judge convicts 6 American oil execs, orders prison",-1
+0.524,0.476,0.0,-0.6705,Poland stalls abortion ban amid nationwide protests,-1
+0.0,1.0,0.0,0.0,Canada to implement financial literacy teaching as early as Grade 10 in Ontario schools.,0
+0.184,0.816,0.0,-0.5574,"Police officer fired after ""fabricating"" story about being served McDonald's coffee with ""f***ing pig"" written on cup",-1
+0.512,0.488,0.0,-0.8885,Alabama just passed a near-total abortion ban with no exceptions for rape or incest,-1
+0.364,0.636,0.0,-0.743,Oregon construction worker fired for refusing to attend Bible study sues former employer,-1
+0.506,0.494,0.0,-0.8834,"Black men arrested with weapons at protest while armed white militia men avoid charges in Greensboro, NC",-1
+0.149,0.851,0.0,-0.1027,"Human penises are shrinking because of pollution, warns scientist",-1
+0.0,0.807,0.193,0.4767,City gets public backlash for spending federal COVID relief money on golf course clubhouse,1
+0.0,1.0,0.0,0.0,"Germany busts international child porn site used by 400,000",0
+0.0,1.0,0.0,0.0,"Nestlé cannot claim bottled water is ‘essential public service’, court rules",0
+0.0,0.806,0.194,0.34,U.S. Homeland Security confirms three units sent paramilitary officers to Portland,1
+0.119,0.881,0.0,-0.3182,"In a new court hearing, Britney Spears' father loses bid to retain complete control of his daughter's financial investments",-1
+0.457,0.543,0.0,-0.8779,Family outraged that LAPD officers won’t face charges in shooting that killed Trader Joe's manager,-1
+0.0,1.0,0.0,0.0,"Don’t reconnect mailing machines, Postal Service tells plants. Tacoma does it anyway",0
+0.0,1.0,0.0,0.0,"‘Hey Siri, I’m getting pulled over’: iPhone feature will record police interaction, send location",0
+0.205,0.795,0.0,-0.4767,FBI raids homes of 2 men who held rally on eve of Capitol attack,-1
+0.0,1.0,0.0,0.0,Michigan becomes the 10th state to legalize recreational marijuana,0
+0.188,0.667,0.145,-0.1779,Hospital Withdraws Job Offer To Doctor Who Tweeted About Giving Jews Wrong Meds,-1
+0.493,0.507,0.0,-0.7783,Woman wanted for allegedly stealing Nancy Pelosi’s laptop arrested,-1
+0.095,0.905,0.0,-0.2263,"A suspected big cat poacher has been eaten by lions near the Kruger National Park in South Africa, police say",-1
+0.306,0.694,0.0,-0.8176,Two Maine police officers who allegedly beat porcupines to death with their batons while on duty have been fired,-1
+0.155,0.68,0.165,0.0258,H&M stops buying leather from Brazil over Amazon fires,0
+0.146,0.769,0.085,-0.3612,"Fired Wilmington cop: “We are just going to go out and start slaughtering them f—— ni—–. I can’t wait. God, I can’t wait.”",-1
+0.0,1.0,0.0,0.0,Papa John sues Papa John's,0
+0.0,1.0,0.0,0.0,"Former Trump campaign manager, Brad Parscale, armed, barricades self in Fort Lauderdale home, police called",0
+0.31,0.69,0.0,-0.5574,A third of the nation's honeybee colonies died last year.,-1
+0.359,0.641,0.0,-0.4215,US Senate healthcare repeal bill fails,-1
+0.0,0.845,0.155,0.296,"Trump announces wave of pardons, including Papadopoulos and former lawmakers Hunter and Collins",1
+0.337,0.408,0.255,-0.3818,Michigan man jailed for nearly 4 decades exonerated after witness admits to lying,-1
+0.514,0.486,0.0,-0.8591,"Woman charged with attempted murder in beating of man, 92, with brick",-1
+0.256,0.744,0.0,-0.4767,Dallas Student Arrested Before Planned Mass Shooting at Shopping Mall,-1
+0.0,1.0,0.0,0.0,Utah bans conversion therapy for LGBTQ children,0
+0.0,1.0,0.0,0.0,ABC News' Amy Robach caught on hot mic saying network spiked Jeffrey Epstein bombshell,0
+0.0,1.0,0.0,0.0,F.C.C. Announces Plan to Repeal Net Neutrality,0
+0.133,0.545,0.321,0.4767,Costco says extra profit from tax cuts will be shared with employees,1
+0.144,0.856,0.0,-0.4019,Video shows USPS mail being dumped in a California parking lot. A postal union says USPS employees weren't involved,-1
+0.261,0.485,0.255,-0.0258,"Muhammad Ali, 'The Greatest of All Time', Dead at 74",0
+0.0,1.0,0.0,0.0,Sean Connery: James Bond actor dies aged 90,0
+0.405,0.595,0.0,-0.7783,Assaulting a worker who's enforcing masks is now a felony under a new Illinois law,-1
+0.307,0.693,0.0,-0.4767,Jeffrey Epstein Arrested For Sex Trafficking of Minors,-1
+0.0,0.798,0.202,0.5859,Congress has certified the 270 Electoral College votes needed to confirm Joe Biden's presidential election win.,1
+0.0,1.0,0.0,0.0,Seattle to permanently close 20 miles of streets to traffic so residents can exercise and bike on them,0
+0.328,0.672,0.0,-0.8316,Delaware judge rules that a medical marijuana user fired from factory job after failing a drug test can pursue lawsuit against former employer,-1
+0.0,0.824,0.176,0.128,"Bucking GOP trend, Alabama governor extends mask order",1
+0.288,0.56,0.152,-0.4019,U.S. Navy Recommends Reinstating Fired USS Theodore Roosevelt Captain,-1
+0.168,0.789,0.043,-0.5859,"""I want you to look me in my eye and say that you're sorry"": Man who lost his eye protesting says he demands a response from the mayor",-1
+0.314,0.686,0.0,-0.4939,"Taiwan rejects China's ""one country, two systems"" offer",-1
+0.31,0.543,0.147,-0.4588,Arizona Sheriff Joe Arpaio loses bid to have his criminal record wiped clean,-1
+0.173,0.827,0.0,-0.3182,"Ashton Kutcher's organisation identifies 2,000 child victims of trafficking in six months",-1
+0.213,0.787,0.0,-0.4019,"YouTube suspends Logan Paul’s ad revenue, blames ‘recent pattern of behavior",-1
+0.0,0.861,0.139,0.2732,Albuquerque will use social workers to respond to certain 911 calls instead of police,1
+0.292,0.708,0.0,-0.5106,Banks halt business with Trump after U.S. Capitol riots,-1
+0.31,0.69,0.0,-0.5574,Illegal Brooklyn bar found with nearly 300 people inside,-1
+0.195,0.677,0.127,-0.1779,"Ghislane Maxwell, long-time friend and confidante of Jeffrey Epstein, has been arrested by the FBI and charged by federal prosecutors",-1
+0.0,0.8,0.2,0.25,Trump acquitted for second time following historic Senate trial,1
+0.0,1.0,0.0,0.0,82-year-old Houston-area man left without heart medicine for a week due to USPS delays,0
+0.0,1.0,0.0,0.0,California officially becomes first in nation mandating solar power for new homes,0
+0.0,0.552,0.448,0.8074,"Justice Ruth Bader Ginsburg, Champion Of Gender Equality, Dies At 87",1
+0.243,0.757,0.0,-0.6705,Man killed by cops during Alabama mall shooting had a permit: Actual shooter remains at large,-1
+0.0,1.0,0.0,0.0,CNN sues President Trump and White House for banning reporter Jim Acosta,0
+0.0,1.0,0.0,0.0,"17-year-old Walmart employee quits over store intercom: 'Nobody should work here, ever'",0
+0.153,0.847,0.0,-0.2023,Wisconsin man charged with breaking measles quarantine to go to gym,-1
+0.0,0.713,0.287,0.7217,Ryan Reynolds asks young people in Canada to please not kill his mother by spreading the coronavirus,1
+0.33,0.595,0.076,-0.6908,"Man cleared of rape to sue police after they hid 40,000 messages from 'victim'",-1
+0.592,0.408,0.0,-0.8271,Bill Cosby found guilty on all sex assault charges,-1
+0.188,0.812,0.0,-0.4588,Vaping will be banned in indoor public places in the state of New York,-1
+0.333,0.547,0.119,-0.6486,Dr. Fauci says his daughters need security as family continues to get death threats,-1
+0.278,0.494,0.228,-0.2023,Father of boy killed in school massacre wins defamation suit,-1
+0.174,0.826,0.0,-0.2732,"Judge permanently dismisses charges against Kenneth Walker, boyfriend of Breonna Taylor",-1
+0.352,0.648,0.0,-0.4215,Hong Kong protesters form 28-mile human chain demanding democracy,-1
+0.218,0.563,0.218,0.0,Proud Boys are a dangerous ‘white supremacist’ group say US agencies,0
+0.375,0.625,0.0,-0.6597,Man Charged in U.S. Capitol Riot Worked for the FBI: Lawyer,-1
+0.0,1.0,0.0,0.0,Man found with five ‘fully operational’ pipe bombs was targeting Governor Newsom,0
+0.0,1.0,0.0,0.0,Man dies in Arizona after being restrained by police on hot tarmac for six minutes,0
+0.527,0.473,0.0,-0.836,Prison whistleblower who exposed unsafe conditions in Arizona facility found dead,-1
+0.0,1.0,0.0,0.0,Single father “prepared to take out a loan” after porch pirate stole 4-year-old son’s kidney medication,0
+0.0,1.0,0.0,0.0,"Katherine Johnson, legendary NASA Langley mathematician, dies at age of 101",0
+0.368,0.632,0.0,-0.7906,'Black Panther' actor Chadwick Boseman dies at 43 after 4-year fight with colon cancer,-1
+0.474,0.526,0.0,-0.743,Driver Who Killed Seattle Protester Charged With Vehicular Homicide,-1
+0.0,1.0,0.0,0.0,Diabetic teen dies after being prescribed oils instead of insulin,0
+0.0,1.0,0.0,0.0,Apple fined for slowing down old iphones.,0
+0.312,0.688,0.0,-0.6124,"""Nobody Died at Sandy Hook"" author must pay victim's dad $450,000, jury says",-1
+0.0,1.0,0.0,0.0,Apple confirms it uses Google's cloud for iCloud,0
+0.293,0.707,0.0,-0.4404,Ghislaine Maxwell: Jeffrey Epstein's former girlfriend denied bail,-1
+0.31,0.69,0.0,-0.6705,"Michelle Carter, convicted in texting suicide case, is headed to jail",-1
+0.0,1.0,0.0,0.0,USA now vaccinating more people against COVID-19 in one day than Canada has in total,0
+0.489,0.511,0.0,-0.8225,Larry Nassar sentenced to 175 years in prison in sexual abuse case,-1
+0.291,0.604,0.104,-0.5267,Woman who coughed on $35K worth of grocery store food charged with four felonies,-1
+0.12,0.759,0.12,-0.25,"Net neutrality: Amazon among top internet firms planning day of action. Etsy, Kickstarter and other leading companies to fight FCC plans to neuter 2015 rules in July protest backed by ACLU, Greenpeace and more",-1
+0.0,1.0,0.0,0.0,"WaPost: Girl dies of dehydration while in Border Patrol custody, 'had not eaten for days'",0
+0.272,0.526,0.202,-0.3818,"Trump pardons former national security adviser Michael Flynn, who pleaded guilty to lying to the FBI",-1
+0.0,1.0,0.0,0.0,Landlord changes locks on California church after pastor said he'd continue to hold services,0
+0.115,0.885,0.0,-0.296,"Woman shot herself in the head while cuffed with hands behind her back during traffic stop, police say",-1
+0.34,0.66,0.0,-0.5574,Oregon bill bans domestic abusers from buying guns,-1
+0.0,0.784,0.216,0.296,"Apple admits it slows older iPhones, confirming Geekbench report",1
+0.0,0.735,0.265,0.5574,Supreme Court rules New York prosecutor can get Trump's tax returns,1
+0.222,0.778,0.0,-0.5719,"Dr. Fauci throws first pitch, players take knee for racial injustice on Opening Day",-1
+0.0,1.0,0.0,0.0,Record 9 million comments flood FCC on net neutrality,0
+0.281,0.719,0.0,-0.5994,Rhino poacher trampled to death by elephant; remains eaten by lions,-1
+0.048,0.889,0.063,0.1838,"Facebook has decided not to limit how political ads are targeted to specific groups of people, as Google has done. Nor will it ban political ads, as Twitter has done. And it still won't fact check them, as it's faced pressure to do.",1
+0.22,0.78,0.0,-0.4767,Alleged Capitol rioters are still being arrested four months after the insurrection,-1
+0.235,0.617,0.148,-0.1027,US soldier being charged with giving classified info about troops to white supremacists,-1
+0.0,1.0,0.0,0.0,Federal Regulators Plan to Investigate Massive Texas Power Outage,0
+0.18,0.82,0.0,-0.5106,Cleveland cop who urinated on girl as she waited for bus gets 4 1/2 years in prison,-1
+0.0,1.0,0.0,0.0,NASCAR: Noose found in Black NASCAR Driver's (Bubba Wallace) garage area at Talladega,0
+0.0,1.0,0.0,0.0,Alabama governor signs bill to remove anti-gay language from sex education curriculum,0
+0.0,0.848,0.152,0.3612,"Hopkins researchers recommend reclassifying psilocybin, the drug in 'magic' mushrooms, from schedule I to schedule IV",1
+0.0,1.0,0.0,0.0,Judge rules Michigan stay-at-home order doesn’t infringe on constitutional rights,0
+0.185,0.815,0.0,-0.3612,"Cincinnati church wipes out $46.5 million in medical debt for 45,000 families",-1
+0.0,0.66,0.34,0.5574,"Giuliani has tested positive for coronavirus, Trump says",1
+0.161,0.683,0.155,-0.0258,"Oregon Gov. Kate Brown will declare emergency, ready National Guard ahead of election",0
+0.238,0.762,0.0,-0.3612,"Stan Lee Laid To Rest In Small, Private Funeral",-1
+0.0,0.612,0.388,0.5859,Doug Jones Projected to win Alabama Senate,1
+0.223,0.777,0.0,-0.3182,GoFundMe Bans Anti-Vaxxers Who Raise Money to Spread Misinformation,-1
+0.219,0.781,0.0,-0.4939,"NYPD officers can no longer search a vehicle due to the smell of marijuana alone, new memo says",-1
+0.187,0.813,0.0,-0.3182,Derrick Evans resigns W.Va. House after entering U.S. Capitol with mob,-1
+0.364,0.424,0.212,-0.4215,"Grant Imahara, 'Mythbusters' co-host, dead at 49",-1
+0.219,0.625,0.156,-0.25,Texas mayor apologizes after violating stay-at-home order to go to nail salon,-1
+0.155,0.845,0.0,-0.296,A woman who allegedly coughed on a baby no longer has her school district job,-1
+0.139,0.817,0.043,-0.6124,U.S. President Donald Trump fired the federal government's top lawyer Sally Yates on Monday after she took the extraordinarily rare step of defying the White House and refused to defend new travel restrictions targeting seven Muslim-majority nations.,-1
+0.0,1.0,0.0,0.0,Trump tax returns are now in the hands of the Manhattan district attorney,0
+0.274,0.726,0.0,-0.5267,Actor Danny Trejo saves a trapped baby from an overturned car,-1
+0.0,0.809,0.191,0.2235,Texas governor lifts mask mandate despite health officials' warnings,1
+0.524,0.476,0.0,-0.765,Police raid illegal rave inside abandoned Toys R Us,-1
+0.0,1.0,0.0,0.0,Scientology facilities in Tennessee closed after police find patients held against their will,0
+0.0,1.0,0.0,0.0,"Washington DC mayor says federal police actions were ""shameful""",0
+0.347,0.653,0.0,-0.7845,"Mayor, Police Chief and other city officials of Iowa town arrested over embezzlement, fraud schemes",-1
+0.0,1.0,0.0,0.0,Cracker Barrel bans an anti-gay pastor from holding an event in one of its stores,0
+0.0,0.824,0.176,0.128,Recreational use of marijuana now legal in Montana,1
+0.545,0.455,0.0,-0.802,Kobe Bryant killed in helicopter crash in California,-1
+0.476,0.524,0.0,-0.875,South Carolina bill would ban animal cruelty offenders from adopting pets for five years,-1
+0.265,0.735,0.0,-0.5574,South Carolina police officer fired after seen on video using n-word,-1
+0.438,0.562,0.0,-0.4404,Ex-postal worker charged with tossing absentee ballots,-1
+0.0,0.816,0.184,0.4019,Japanese firm gives non-smokers extra six days holiday to compensate for cigarette break,1
+0.248,0.752,0.0,-0.5106,U.S. condemns unjustified use of force in Hong Kong: senior official,-1
+0.136,0.864,0.0,-0.296,"Allstate, American Family Insurance to return $800 million in premiums because no one is driving",-1
+0.0,0.686,0.314,0.4939,US makes official return to Paris climate agreement,1
+0.0,1.0,0.0,0.0,Maine postal workers reassemble high-speed sorting machine,0
+0.333,0.667,0.0,-0.4588,Anti-vaxxers banned from raising money on GoFundMe,-1
+0.18,0.82,0.0,-0.296,Worried voters are buying stamps and merch to fund the USPS,-1
+0.298,0.702,0.0,-0.5267,Kenosha County DA says Kyle Rittenhouse has violated bond,-1
+0.239,0.761,0.0,-0.5267,Black disabled Veteran Sean Worsley sentenced to spend 60 months in Alabama prison for medical marijuana,-1
+0.0,0.895,0.105,0.0762,Canadian air traffic controllers send pizzas to U.S. counterparts working without pay,0
+0.237,0.763,0.0,-0.4767,Police union will not ID officer in Australian TV crew attack,-1
+0.0,0.496,0.504,0.7269,Justice Department appoints special prosecutor for Russia investigation,1
+0.226,0.774,0.0,-0.5423,"Manhattan Beach surfer issued $1,000 citation for violating beach closure order, disrespecting lifeguard.",-1
+0.0,0.625,0.375,0.5574,Donald Trump Jr. tests positive for COVID-19,1
+0.0,1.0,0.0,0.0,James Comey terminated as Director of FBI,0
+0.0,1.0,0.0,0.0,US student sent home from N Korea dies,0
+0.55,0.45,0.0,-0.8211,Pope Francis: fake and sensationalised news 'a very serious sin',-1
+0.419,0.581,0.0,-0.802,Louisville police collected negative info about Breonna Taylor's boyfriend after fatal shooting,-1
+0.0,1.0,0.0,0.0,U.S. Postal Service says it will run out of money by September,0
+0.224,0.776,0.0,-0.3818,Hundreds show up in Nebraska for fight over name Josh,-1
+0.496,0.504,0.0,-0.7096,White Referee Fired After Forcing Black Wrestler to Cut Dreadlocks,-1
+0.0,1.0,0.0,0.0,Zuckerberg has sold more Facebook stock in the last 3 months than any insider at any other company,0
+0.161,0.839,0.0,-0.3612,Police look for woman who deliberately coughed on a 1-year-old baby after argument with mother,-1
+0.302,0.698,0.0,-0.5994,Big game hunter trampled to death by elephant in Namibia,-1
+0.22,0.78,0.0,-0.4767,Man with foot up on desk in Pelosi's office at Capitol arrested,-1
+0.167,0.833,0.0,-0.25,Officer with knee to George Floyd's neck to be tried alone,-1
+0.271,0.729,0.0,-0.3818,Trump Declares National Emergency to Build Border Wall,-1
+0.18,0.82,0.0,-0.296,"Suit: Police barged into Kansas home, beat man for no reason",-1
+0.401,0.599,0.0,-0.7717,Revealed: officer who killed Rayshard Brooks accused of covering up 2015 shooting,-1
+0.333,0.667,0.0,-0.4588,CNN banned from White House press briefing,-1
+0.18,0.82,0.0,-0.296,"U.S. says Ghislaine Maxwell should stay behind bars, deserves no bail",-1
+0.066,0.718,0.215,0.4019,"Boy Scouts of America backs Black Lives Matter, will require diversity merit badge for Eagle Scouts",1
+0.0,1.0,0.0,0.0,"Jeffrey Epstein flew to Virgin Islands with 11, 12-year-old girls in 2018, witness says",0
+0.385,0.615,0.0,-0.8555,Los Angeles Millionaire Is Accused of Covering Up His Teen Son's Involvement in a Crash that Killed a Latina Woman,-1
+0.291,0.709,0.0,-0.6249,Judge says US government can be sued for Flint water crisis,-1
+0.0,0.66,0.34,0.5574,Kellyanne Conway announces she tested positive for coronavirus,1
+0.315,0.474,0.211,-0.5267,A Chinese Cheating Ring at UCLA Reveals an Industry Devoted to Helping International Students Scam Grades,-1
+0.386,0.614,0.0,-0.8689,A FedEx worker found dead at a delivery facility was one of 17 killed in the extreme weather,-1
+0.372,0.479,0.149,-0.6369,Popular Young Reporter For NewsChannel 9 Terminated By Sinclair As She Battles Cancer,-1
+0.163,0.837,0.0,-0.5106,Calling 911 with a false claim because of race can now put you in prison for years in N.J.,-1
+0.425,0.472,0.104,-0.6597,Chester Bennington of Linkin Park commits suicide,-1
+0.0,1.0,0.0,0.0,"Half of Teachers Did Not Return to Chicago Public Schools as Ordered on Monday, District Says",0
+0.0,1.0,0.0,0.0,FBI agents swarm Jeffrey Epstein's private Caribbean island,0
+0.25,0.566,0.184,-0.1027,Elizabeth Warren will drop out of the 2020 presidential race after disappointing Super Tuesday showing,-1
+0.278,0.722,0.0,-0.8074,Billionaire pharmaceutical exec John Kapoor goes on trial starting today in the first prosecution of a CEO tied to the opioid crisis,-1
+0.183,0.817,0.0,-0.8225,"An ‘unarmed’ white teen was shot dead by police. His family asks: Where is the outrage? -- Hammond’s family released the results of a private autopsy, which concluded that both bullets entered Hammond’s body from the back.",-1
+0.374,0.517,0.109,-0.6808,"Japanese bonsai owners urge thieves to water stolen 400-year-old tree worth $127,700",-1
+0.184,0.816,0.0,-0.2023,Ghislaine Maxwell Charged With Sex Trafficking of 14-Year-Old Girl,-1
+0.329,0.671,0.0,-0.6597,"Son Tipped Off F.B.I. About His Father, Who Is Charged in Capitol Riot",-1
+0.265,0.735,0.0,-0.5574,Hawaii becomes 12th state to ban gay conversion therapy for minors,-1
+0.268,0.732,0.0,-0.6597,The Police Report for the Killing of Breonna Taylor Is Almost Entirely Blank,-1
+0.419,0.581,0.0,-0.5574,Rapper DMX Has Died at 50,-1
+0.202,0.798,0.0,-0.6486,‘I’m suffocating’: French delivery driver’s last words echo George Floyd case | Four police officers questioned for involuntary homicide over death of Cédric Chouviat,-1
+0.167,0.833,0.0,-0.296,Drought-hit California orders Nestlé to stop pumping millions of gallons of water,-1
+0.137,0.863,0.0,-0.2263,"75-year-old protester pushed by Buffalo police files lawsuit against city, mayor and officers",-1
+0.0,1.0,0.0,0.0,"U.S. reports more than 100,000 COVID-19 cases for seventh day in a row",0
+0.412,0.588,0.0,-0.743,Coronavirus: Florida scientist was fired for refusing to 'manipulate' COVID-19 data,-1
+0.518,0.482,0.0,-0.6486,Rush Limbaugh dead at 70,-1
+0.298,0.702,0.0,-0.7783,"Body-cam video in George Floyd killing shows officer pulled gun, swore and touched Floyd multiple times without explanation",-1
+0.165,0.696,0.139,-0.1027,Emergency alert about ballistic missile sent to Hawaii residents; EMA says ‘no threat’,-1
+0.13,0.87,0.0,-0.2023,San Francisco officer is charged with on-duty homicide. The DA says it's a first,-1
+0.462,0.538,0.0,-0.6486,Swedish DJ Avicii Dead at 28,-1
+0.176,0.824,0.0,-0.4939,New York Times reporter infected with Covid-19 says the White House is not doing contact tracing,-1
+0.296,0.704,0.0,-0.6369,Video shows Florida deputy fatally shooting Black teens in moving car,-1
+0.0,1.0,0.0,0.0,"With a pen stroke, Mississippi drops Confederate-themed flag",0
+0.0,0.877,0.123,0.1027,"Neil deGrasse Tyson Cleared by Misconduct Investigation, Will Keep Museum Job",1
+0.318,0.682,0.0,-0.6808,Former Marine steals truck after Vegas shooting and drives nearly 30 victims to hospital,-1
+0.0,1.0,0.0,0.0,Andrew Yang drops out of presidential race,0
+0.14,0.518,0.342,0.5994,Amazon's hourly workers lose monthly bonuses and stock awards as minimum wage increases,1
+0.291,0.582,0.127,-0.4767,Capitol Police arrested a man with an ‘unauthorized’ inauguration credential and a gun at a security checkpoint.,-1
+0.0,1.0,0.0,0.0,Transgender people 'can't serve' US army,0
+0.189,0.811,0.0,-0.4215,Russian athlete filmed in 'I don’t do doping' shirt fails Olympic drug test,-1
+0.497,0.503,0.0,-0.836,Salma Hayek divulges years of terrifying abuse by Harvey Weinstein,-1
+0.0,0.781,0.219,0.4215,Californian law change means pet shops can sell only rescued animals,1
+0.249,0.751,0.0,-0.5106,"MyPillow CEO says Bed Bath & Beyond, Kohl's stopped selling his products, prompting calls for boycotts",-1
+0.0,1.0,0.0,0.0,Measles returned to Costa Rica after five years by French family who had not had vaccinations,0
+0.406,0.594,0.0,-0.8481,"Boston Mayor declares racism a public health crisis, diverts police overtime money to community programs",-1
+0.231,0.769,0.0,-0.4019,Tesla shareholders reject bid to strip Musk of chairman role,-1
+0.0,1.0,0.0,0.0,"FBI director says antifa is an ideology, not an organization",0
+0.226,0.774,0.0,-0.9001,"Family members viewed long-secret body-camera video this week of a Black man who died in Louisiana State Police custody, their attorney calling it damning footage that shows troopers choking and beating the man, repeatedly jolting him with stun guns and dragging him face-down across the pavement",-1
+0.551,0.449,0.0,-0.8689,"Two US Capitol police officers suspended, one arrested following Capitol riot",-1
+0.151,0.714,0.135,-0.0516,"Amazon blocks sale of merchandise with ""stand back"" and ""stand by""",0
+0.412,0.588,0.0,-0.6808,'Pharma Bro’ Shkreli loses 2nd bid for early prison release,-1
+0.277,0.594,0.129,-0.3612,Harvey Weinstein found guilty in landmark #MeToo moment,-1
+0.389,0.611,0.0,-0.6249,"50,000 net neutrality complaints were excluded from FCC’s repeal docket",-1
+0.0,1.0,0.0,0.0,Cherokee Nation first tribe in U.S. to send heirloom seeds to global seed vault in Norway,0
+0.459,0.541,0.0,-0.6249,MAGA protesters damage historic Black church in DC,-1
+0.0,0.774,0.226,0.4449,Terry Crews names alleged sexual assaulter: 'I will not be shamed',1
+0.364,0.636,0.0,-0.743,US Police officers charged with over 400 rapes that occurred over a 9 year period.,-1
+0.227,0.773,0.0,-0.4767,Officer who knelt with George Floyd protesters accused of insubordination a day later - The San Francisco Examiner,-1
+0.0,1.0,0.0,0.0,Father gets 60 years for trying to sell 4-year-old daughter for sex,0
+0.102,0.848,0.05,-0.2023,Amazon Employees Will Walk Out Over Climate Change Inaction: The planned event will mark the first time in Amazon's 25-year history that workers at the company's Seattle headquarters have participated in a strike.,-1
+0.0,1.0,0.0,0.0,Pete Buttigieg is suspending his 2020 presidential campaign,0
+0.0,1.0,0.0,0.0,Trump impeachment lawyer Michael van der Veen's home vandalized,0
+0.302,0.698,0.0,-0.7579,"Atlanta police officers not answering some 911 calls after former cop charged with murder, sources say - KRDO",-1
+0.359,0.641,0.0,-0.6808,Adult Film Star Ron Jeremy Charged With 20 New Sex Assault Counts,-1
+0.0,0.819,0.181,0.4767,South Dakota governor uses coronavirus relief funds for $5 million tourism ad despite COVID surge,1
+0.0,1.0,0.0,0.0,Vermont has officially legalized cannabis,0
+0.146,0.854,0.0,-0.34,Denver police fire pepper balls at man yelling that his pregnant fiancée is in car.,-1
+0.118,0.882,0.0,-0.34,"""Biggest leak in the history of data journalism just went live, and it's about corruption."" - Edward Snowden on twitter.",-1
+0.328,0.672,0.0,-0.6597,"Obama dog Bo, once a White House celebrity, dies from cancer",-1
+0.0,0.775,0.225,0.4939,LA officially becomes 'no-kill' city as animal shelters achieve 90% save rate,1
+0.166,0.698,0.136,-0.144,Chris Evans sending 'Captain America' shield to little boy who saved sister from dog attack,-1
+0.0,0.645,0.355,0.6705,"Woman reads fine print on insurance policy, wins $10,000 in hidden contest",1
+0.0,1.0,0.0,0.0,New Virginia law capping insulin prices at $50 a month goes into effect Friday,0
+0.0,1.0,0.0,0.0,Comcast asks the FCC to prohibit states from enforcing net neutrality,0
+0.0,1.0,0.0,0.0,Israel officially decriminalizes marijuana use,0
+0.0,1.0,0.0,0.0,39 tigers from Netflix series 'Tiger King' are now living in a Colorado animal sanctuary,0
+0.478,0.522,0.0,-0.6705,Criminal charges expected this week against Epstein guards,-1
+0.286,0.714,0.0,-0.5574,"American Icon and Playboy Founder, Hugh M. Hefner, Has Died",-1
+0.0,0.743,0.257,0.5859,"Winner of $560 Million Powerball Can Keep Her Name Private, Judge Rules",1
+0.375,0.5,0.125,-0.6124,White supremacist killed in shootout with California deputies,-1
+0.268,0.732,0.0,-0.5106,U.S. Postmaster General to pause all operational reforms after outcry,-1
+0.113,0.887,0.0,-0.1027,Man leaves €2m to French village that hid his family from Nazis,-1
+0.39,0.61,0.0,-0.7506,"Sheriff: Deputy sexually assaulted child, threatened undocumented mom if she reported it",-1
+0.228,0.702,0.07,-0.5719,"Death Valley reaches 130 degrees, hottest temperature in U.S. in at least 107 years",-1
+0.385,0.615,0.0,-0.7845,"4 Years After an Execution, a Different Man’s DNA Is Found on the Murder Weapon",-1
+0.203,0.676,0.121,-0.4019,Major League Baseball and player's union agree to opioid testing; marijuana removed as 'drug of abuse',-1
+0.136,0.864,0.0,-0.296,"Astronaut’s DNA No Longer Matches His Identical Twin’s After Year Spent in Space, NASA Finds",-1
+0.0,1.0,0.0,0.0,Buffalo protester Martin Gugino has a fractured skull and cannot walk,0
+0.115,0.692,0.192,0.25,An 11-year-old girl in Zimbabwe jumped on top of a crocodile and gouged its eyes out when it attacked her 9-year-old friend,1
+0.338,0.662,0.0,-0.6249,Retired firefighter found guilty for shooting at lost black teen on doorstep,-1
+0.268,0.732,0.0,-0.296,Facebook will stop recommending political groups permanently,-1
+0.167,0.714,0.119,-0.2023,Facebook fails to convince lawmakers it needs to track your location at all times,-1
+0.0,0.744,0.256,0.4767,"Aretha Franklin dies in Detroit, surrounded by family and friends",1
+0.433,0.567,0.0,-0.7269,Armed man arrested at Charlotte polling site after being banned,-1
+0.138,0.862,0.0,-0.34,Mass. Trooper Sues Police Leaders After He Was Told To Alter Arrest Report Of Judge's Daughter,-1
+0.245,0.755,0.0,-0.5994,"Father buys $64,259 ad calling for police to reopen investigation into son's death",-1
+0.0,1.0,0.0,0.0,First paralyzed human treated with stem cells has now regained his upper body movement,0
+0.226,0.566,0.208,-0.0772,"Mitsubishi pulls Hearthstone tournament sponsorship after ""Free Hong Kong"" gamer ban",0
+0.234,0.426,0.34,0.25,9/11 hero who saved hundreds dies of cancer at age 45,1
+0.0,1.0,0.0,0.0,FBI serves search warrant at YouTube personality Jake Paul's home in Calabasas,0
+0.247,0.753,0.0,-0.3182,Fox News Host Tucker Carlson Loses More Advertisers,-1
+0.0,1.0,0.0,0.0,U.S. regulator demands companies take action to halt 'robocalls',0
+0.464,0.536,0.0,-0.886,George Floyd's family says four officers involved in his death should be charged with murder,-1
+0.29,0.71,0.0,-0.6486,New York protesters are trapped on the Manhattan Bridge with police waiting on both ends,-1
+0.0,1.0,0.0,0.0,CVS Puts Out Generic Competitor To EpiPen At A 6th Of The Price,0
+0.0,0.581,0.419,0.5574,Supreme Court's Ginsburg discharged from hospital,1
+0.0,1.0,0.0,0.0,Ivanka Trump used a personal email account to send hundreds of emails about government business last year,0
+0.148,0.679,0.173,0.1027,A homeless man rescued all the animals at a shelter after it caught on fire,1
+0.0,1.0,0.0,0.0,"Thousands of Seattle students told to get vaccinated, or don’t come back after winter break",0
+0.146,0.572,0.282,0.2805,"Texas judge interrupts jury, says God told him defendant is not guilty",1
+0.0,1.0,0.0,0.0,Students call for open access to publicly funded research,0
+0.0,0.761,0.239,0.296,"Illinois governor pardons 11,000 for low-level marijuana convictions",1
+0.0,1.0,0.0,0.0,Former President George H.W. Bush Dies at 94,0
+0.0,1.0,0.0,0.0,Stephen Hawking to Be Buried Between Darwin and Newton.,0
+0.342,0.658,0.0,-0.3818,Airspace now restricted over Biden’s home,-1
+0.196,0.804,0.0,-0.296,Twitter bans political ads after Facebook refused to do so,-1
+0.307,0.693,0.0,-0.7351,Interpol issues wanted notice for wife of U.S. diplomat sought over fatal UK car crash: ITV,-1
+0.0,1.0,0.0,0.0,White House suspends CNN reporter's access,0
+0.0,1.0,0.0,0.0,Virginia city fires police officer over Kyle Rittenhouse donation,0
+0.0,1.0,0.0,0.0,Target joins Walmart in staying closed for Thanksgiving this year,0
+0.0,1.0,0.0,0.0,Dr. Anthony Fauci says U.S. coronavirus cases are ‘unacceptably high’ going into Labor Day,0
+0.0,0.872,0.128,0.296,Trump pardons former campaign chairman Paul Manafort and son-in-law's father in another round of clemency action,1
+0.174,0.698,0.128,-0.2023,"Robinhood is still severely limiting trading, customers can only buy one share of GameStop",-1
+0.259,0.741,0.0,-0.6808,"Man stabbed Jack in the Box manager 3 times after refusing to wear mask in League City, police say",-1
+0.202,0.798,0.0,-0.5106,California man who spent 39 years in prison gets $21 million for wrongful conviction,-1
+0.0,1.0,0.0,0.0,"Uber, Lyft, DoorDash stocks fall sharply after U.S. Labor secretary says gig workers should be classified as employees",0
+0.2,0.8,0.0,-0.6124,"Man with mental illness spent nearly 5 months in jail before body cam video revealed Garfield Heights officers beat, tased and mocked him",-1
+0.337,0.663,0.0,-0.6808,Three LAPD officers face felony charges for falsely labeling people as gang members,-1
+0.0,0.744,0.256,0.4767,NYTimes: Trump Campaign Aides Had Repeated Contacts With Russian Intelligence,1
+0.0,1.0,0.0,0.0,Saudi Prince's $79million superyacht capsizes and partially sinks in Greece,0
+0.224,0.51,0.265,0.1027,Missing 5-year-old and 8-year-old sisters found alive,1
+0.171,0.829,0.0,-0.5106,"Olive Garden parent Darden offers paid sick days to all hourly employees, a first for the restaurant industry.",-1
+0.296,0.704,0.0,-0.2732,Trump blocked by Twitter and Facebook,-1
+0.257,0.743,0.0,-0.6705,"Jeffrey Epstein's autopsy more consistent with homicidal strangulation than suicide, Dr. Michael Baden reveals",-1
+0.313,0.687,0.0,-0.6249,Illinois State Senate passes measure designating neo-Nazi groups as terrorists,-1
+0.0,1.0,0.0,0.0,F.B.I. Raids Office of Trump’s Longtime Lawyer Michael Cohen,0
+0.13,0.87,0.0,-0.4019,"The Minneapolis police officer who knelt on George Floyd's neck had 18 previous complaints against him, police department says",-1
+0.0,1.0,0.0,0.0,Bronze statue of Ruth Bader Ginsburg to be unveiled in Brooklyn during Women's History Month,0
+0.235,0.765,0.0,-0.4588,Oakland passes emergency ‘hazard pay’ ordinance; grocers must pay workers an extra $5 per hour,-1
+0.573,0.427,0.0,-0.9201,Prosecutors weigh ‘heavy hammer’ — felony murder — for rioters in Capitol officer’s death,-1
+0.0,1.0,0.0,0.0,"Sacha Baron Cohen Crashes Right Wing Event, Leads Absurd Sing-Along",0
+0.437,0.563,0.0,-0.8779,Parents of Malnourished Iowa 16-Year-Old Who Weighed 56 Pounds When She Died Are Charged with Murder,-1
+0.0,0.794,0.206,0.3818,Washington man gets stunning souvenir with COVID-19 treatment: a $1.1 million bill,1
+0.141,0.859,0.0,-0.3182,Twitter temporarily restricts Donald Trump Jr.'s account after he posts video claiming masks are unnecessary,-1
+0.354,0.571,0.074,-0.7096,Former officers charged in George Floyd killing want court proceedings recorded and broadcast,-1
+0.296,0.704,0.0,-0.4939,Teenage boys wear skirts to school to protest against 'no shorts' policy,-1
+0.286,0.714,0.0,-0.5574,Some U.S. Capitol rioters fired after internet detectives identify them,-1
+0.374,0.549,0.077,-0.6597,Admitted KKK leader who drove through crowd of protesters found guilty on multiple charges,-1
+0.0,0.649,0.351,0.4019,Active shooter reported at Pitfsburgh synagogue,1
+0.0,1.0,0.0,0.0,School board fires Florida teacher for medical marijuana use,0
+0.167,0.833,0.0,-0.34,Phoenix police must now document each time they point their gun at someone,-1
+0.262,0.738,0.0,-0.5994,"George Floyd death: Los Angeles police slammed for shooting homeless, wheelchair-bound man",-1
+0.333,0.667,0.0,-0.6705,Judge blocks release of Tennessee man seen with zip ties at Capitol riot,-1
+0.0,0.753,0.247,0.5574,Kavanaugh is confirmed to the Supreme Court by Senate -- live updates,1
+0.0,1.0,0.0,0.0,"Kanye West removed from Illinois Presidential ballot after nearly 2,000 invalid signatures discovered",0
+0.204,0.796,0.0,-0.3182,Donald Trump calls for delay to 2020 US presidential election,-1
+0.307,0.693,0.0,-0.4767,Alex Jones arrested for DWI in Travis County,-1
+0.0,1.0,0.0,0.0,Goldman Sachs CEO David Solomon gets a 20% raise to $27.5 million,0
+0.0,1.0,0.0,0.0,San Francisco Plans to Wipe Out Thousands of Pot Convictions,0
+0.0,1.0,0.0,0.0,"NY Times: Trump paid $750 in US income taxes in 2016, 2017",0
+0.479,0.521,0.0,-0.8481,"Denver police officer fired for ""Let's start a riot"" post during George Floyd protest",-1
+0.0,1.0,0.0,0.0,California to become first U.S. state mandating solar on new homes,0
+0.0,1.0,0.0,0.0,Magic Mushrooms Are Decriminalized in DC as of Today,0
+0.462,0.538,0.0,-0.6486,CNN's Anthony Bourdain dead at 61,-1
+0.0,1.0,0.0,0.0,Native Americans renew decades-long push to reclaim millions of acres in the Black Hills,0
+0.208,0.792,0.0,-0.6124,Oregon governor issues emergency fire order; three prisons evacuated. The state's largest firefighting helicopters are unavailable; they were deployed to Afghanistan.,-1
+0.0,1.0,0.0,0.0,"Doctors post blood-soaked photos after NRA tells them to ""stay in their lane""",0
+0.2,0.8,0.0,-0.4588,"Underage girl forced to have sex with Prince Andrew, US court document claims",-1
+0.0,0.709,0.291,0.5719,Canada teen wins $1000 a week for life on 18th birthday,1
+0.36,0.64,0.0,-0.5423,Breonna Taylor evidence photos contradict LMPD's 'no body cam' claim,-1
+0.0,0.897,0.103,0.128,Marine kicked out of Marine Corps for role in Charlottesville white supremacist march | WTOP,1
+0.0,1.0,0.0,0.0,"FBI cannot even look at your phone lock screen without a warrant, rules judge",0
+0.322,0.678,0.0,-0.5859,'Pharma bro' Martin Shkreli convicted in federal fraud case,-1
+0.205,0.795,0.0,-0.2023,Online influencer Jake Paul charged after Scottsdale looting,-1
+0.305,0.611,0.084,-0.4404,Judge drops charges against 28 Black Lives Matter protesters in Detroit,-1
+0.183,0.61,0.207,0.0516,Amazon workers stage strike on Black Friday,0
+0.322,0.678,0.0,-0.5859,Washington bans anyone under 21 from buying assault rifles,-1
+0.0,1.0,0.0,0.0,Kanye West's Yeezy got millions in federal small business loans,0
+0.441,0.559,0.0,-0.836,Pharmaceutical giant 'plotted to destroy cancer drugs to drive prices up 4000%',-1
+0.0,0.806,0.194,0.5574,"Official: GOP Pennsylvania Rep. Mike Reese dies following apparent brain aneurysm, after testing positive for COVID-19",1
+0.0,0.761,0.239,0.296,New Mexico will restore evolution to science standards,1
+0.206,0.794,0.0,-0.5994,"9 People Showed Up for a KKK Rally in Dayton, Ohio. They Were Drowned Out by 600 Protestors",-1
+0.0,1.0,0.0,0.0,FBI: Video evidence shows noose found in garage of Bubba Wallace had been there since Oct. 2019,0
+0.0,0.684,0.316,0.5719,A truck driver from Brooklyn wins $298 million Powerball Jackpot,1
+0.239,0.761,0.0,-0.6908,"Utah CEO gets 210 days in jail for having 13K files of infant & child rape, bestiality",-1
+0.124,0.876,0.0,-0.1779,Shake Shack returning $10 million government loan meant for small businesses (NBC News),-1
+0.171,0.829,0.0,-0.4767,"North Carolina man arrested after he’s discovered with guns, explosives in plot to assassinate Joe Biden",-1
+0.0,1.0,0.0,0.0,Arresting officer in George Floyd case taken into custody by BCA,0
+0.174,0.826,0.0,-0.2263,US judge cancels permit for Keystone XL pipeline from Canada,-1
+0.0,0.7,0.3,0.7184,A protester knelt down to tell police he loves and respects them. They threw him in jail.,1
+0.398,0.602,0.0,-0.6486,Outrage over video showing police macing child at Seattle protest,-1
+0.677,0.323,0.0,-0.9403,Mother stabs rapist to death after catching him attacking her daughter,-1
+0.0,1.0,0.0,0.0,Russia to Withdraw Troops From Ukraine Border,0
+0.246,0.716,0.038,-0.8979,"Louisville Metro Council Agrees To Ban No-Knock Raids. Breonna Taylor was killed nearly three months ago during a no-knock raid. All 26 members of the Metro Council have signed on as co-sponsors to “Breonna’s Law,” which would ban them.",-1
+0.208,0.792,0.0,-0.2732,Alabama blocked a man from voting because he owed $4,-1
+0.167,0.833,0.0,-0.4588,"Video surfaces showing Philadelphia police bashing SUV windows, then beating driver while child was in backseat",-1
+0.0,1.0,0.0,0.0,Dutch parliament: China's treatment of Uighurs is genocide,0
+0.0,1.0,0.0,0.0,FCC Chairman Ajit Pai will step down on January 20,0
+0.4,0.6,0.0,-0.7184,Stan Lee's ex-manager charged with elder abuse against comic book co-creator,-1
+0.464,0.536,0.0,-0.6369,R. Kelly Arrested on Federal Sex Trafficking Charges,-1
+0.0,1.0,0.0,0.0,"In a first, FBI to begin collecting national data on police use of force",0
+0.0,0.647,0.353,0.7184,D.C. native Dave Chappelle receives Mark Twain award for lifetime achievement in comedy,1
+0.318,0.473,0.209,-0.3818,Proud Boys added to Canada’s list of terrorist groups,-1
+0.386,0.526,0.088,-0.7269,Death of Guatemalan toddler detained by ICE sparks $60 million legal claim,-1
+0.337,0.663,0.0,-0.765,The doctor who pronounced George Floyd dead says a lack of oxygen was the likely cause.,-1
+0.0,0.748,0.252,0.4019,Active shooter at Mandalay Bay Casino in Las Vegas,1
+0.0,1.0,0.0,0.0,Carrie Fisher Dies at 60,0
+0.217,0.783,0.0,-0.3612,California bans private prisons – including Ice detention centers | US news,-1
+0.298,0.702,0.0,-0.6249,Breonna Taylor's boyfriend says in $10.5 million lawsuit that he 'lives in constant fear',-1
+0.504,0.496,0.0,-0.7269,Bill Cosby loses appeal of sexual assault conviction,-1
+0.521,0.479,0.0,-0.8225,"GBI arrests father, son for murder of Ahmaud Arbery",-1
+0.306,0.694,0.0,-0.6597,'Jeopardy' host Alex Trebek dies at 80 due to pancreatic cancer,-1
+0.0,0.695,0.305,0.6908,This Michigan marijuana dispensary is giving free weed to anyone who got the COVID-19 vaccine,1
+0.237,0.763,0.0,-0.4767,A man who carried a Confederate flag into the Capitol has been arrested.,-1
+0.236,0.764,0.0,-0.5719,Komodo island is reportedly closing until 2020 because people keep stealing the dragons,-1
+0.0,1.0,0.0,0.0,New York Democrat Ritchie Torres elected as the first openly gay Black member of Congress,0
+0.122,0.812,0.066,-0.2732,First Nations chief calls for police-worn body cameras as he awaits answers on his arrest caught on video,-1
+0.0,0.739,0.261,0.4256,"Moderna Covid vaccine candidate almost 95% effective, trials show",1
+0.319,0.509,0.171,-0.4939,University of Minnesota law professor falsely accused of rape wins $1.2 million defamation judgment,-1
+0.346,0.654,0.0,-0.5719,"Reddit, Acting Against Hate Speech, Bans ‘The_Donald’ Subreddit",-1
+0.0,0.75,0.25,0.25,Texas poised to hit 1 million coronavirus cases.,1
+0.0,0.804,0.196,0.296,"Postal worker admits fabricating allegations of ballot tampering, officials say",1
+0.249,0.751,0.0,-0.5106,Buffalo officials ask state to probe firing of Black officer who stopped white colleague's chokehold,-1
+0.0,0.726,0.274,0.8689,A small-town Iowa newspaper with a staff of 10 people - most of whom are related to each other – has won a Pulitzer Prize for taking on powerful agricultural companies over farm pollution.,1
+0.0,0.874,0.126,0.0772,Michigan inmate serving 60-year sentence for selling weed requests clemency,0
+0.0,1.0,0.0,0.0,Massachusetts mayor first in line as recreational marijuana sales begin,0
+0.322,0.678,0.0,-0.2263,Home Depot cancels Black Friday,-1
+0.255,0.745,0.0,-0.4767,"Fauci says ""serious threats"" have been made against him and his wife and daughters",-1
+0.135,0.748,0.118,-0.1164,"Louisiana police officer was fired over a Facebook comment that said it was ""unfortunate"" more black people did not die of the coronavirus.",-1
+0.216,0.64,0.144,-0.2263,Losses on short positions in U.S. firms top $70 billion,-1
+0.0,1.0,0.0,0.0,Federal Jury Convicts Lawyer and Coal Company Executive for Bribing State Legislator,0
+0.112,0.695,0.193,0.3612,"Global rich must cut their carbon footprint 97% to stave off climate change, UN says",1
+0.127,0.809,0.064,-0.2732,Dr. Anthony Fauci says he won't walk away from 'this outbreak no matter who's the president',-1
+0.0,1.0,0.0,0.0,Steve Bannon out as White House chief strategist,0
+0.342,0.658,0.0,-0.6369,K.K.K. Member Who Drove Into Protesters Gets More Than 3 Years in Prison,-1
+0.205,0.537,0.259,0.2732,"Families of Sandy Hook shooting victims win legal victory in lawsuit against InfoWars, Alex Jones",1
+0.283,0.566,0.151,-0.2732,No voting system deleted or lost votes in U.S. election: security groups,-1
+0.197,0.71,0.093,-0.4404,Amazon engineer quits after he 'snapped' when the company fired workers who called for protections,-1
+0.56,0.44,0.0,-0.836,FBI arrests Nashville zip-tie suspect from assault on U.S. Capitol,-1
+0.725,0.275,0.0,-0.9217,Hate crime charges filed against 4 in torture of teen,-1
+0.0,0.676,0.324,0.5859,"Trump ousts Homeland Security cyber chief Chris Krebs, who called election secure",1
+0.153,0.847,0.0,-0.2023,"Tokyo 2020: Olympics to be postponed until 2021, says IOC member",-1
+0.339,0.661,0.0,-0.6249,"Dow drops nearly 3,000 points; worst day since '87",-1
+0.0,1.0,0.0,0.0,"Days after photos of packed hallways go viral, Paulding County High School in Georgia reports 9 COVID-19 cases",0
+0.137,0.616,0.247,0.3818,Leader of North Carolina lockdown Protest group tests positive for COVID-19,1
+0.302,0.698,0.0,-0.5994,Wuhan residents remember coronavirus 'whistleblower' doctor a year after his death,-1
+0.0,1.0,0.0,0.0,Walmart closing stores on Thanksgiving,0
+0.306,0.694,0.0,-0.6597,John McCain has chosen to discontinue medical treatment for brain cancer,-1
+0.296,0.704,0.0,-0.2732,"Facebook, iTunes and Spotify drop InfoWars",-1
+0.396,0.44,0.164,-0.5719,China’s Forced Sterilization of Uyghur Women Violates Clear International Law,-1
+0.0,0.876,0.124,0.34,"EA’s day of reckoning is here after ‘Star Wars’ game uproar, $3 billion in stock value wiped out",1
+0.174,0.826,0.0,-0.2263,New Law Requires Federal Agents to Identify Themselves to Protesters,-1
+0.167,0.833,0.0,-0.3818,Home surveillance camera shows officer lied on report when charging man with major crimes,-1
+0.36,0.64,0.0,-0.6705,"Kenya’s only white female giraffe, calf killed by poachers",-1
+0.377,0.506,0.117,-0.7717,Grand jury indicts 1 officer on criminal charges 6 months after Breonna Taylor fatally shot by police in Kentucky,-1
+0.205,0.795,0.0,-0.4767,CNN News Crew of Omar Jimenez and 4-member crew Arrested on Live TV,-1
+0.368,0.632,0.0,-0.7506,San Francisco CEO kicked out of restaurant following racist rant caught on camera,-1
+0.0,0.823,0.177,0.4215,"United Airlines saves 170,000 gallons of fuel by using lighter paper on inflight magazine",1
+0.264,0.618,0.118,-0.5574,Bill Gates donates $4M to create mosquitoes that kill each other using sex,-1
+0.137,0.63,0.233,0.3818,52% of young adults in the US are living with their parents. That's the highest share since the Great Depression,1
+0.0,0.714,0.286,0.4215,Joe Biden elected president of the United States,1
+0.0,0.894,0.106,0.0772,Elon Musk has deleted Tesla and SpaceX’s Facebook Pages after Twitter Challenge,0
+0.343,0.657,0.0,-0.7783,Couple who yelled 'white power' at Black man and his girlfriend arrested for hate crimes,-1
+0.0,1.0,0.0,0.0,"Judge halts Keystone XL pipeline, citing ‘complete disregard’ for climate",0
+0.0,1.0,0.0,0.0,L.A. area cop seen on video punching handcuffed woman twice in face,0
+0.237,0.625,0.138,-0.3818,Terry Crews Shares His Own Story of Sexual Assault by a Hollywood Executive,-1
+0.0,0.69,0.31,0.4019,Active duty troops deploying to Washington DC,1
+0.174,0.826,0.0,-0.2263,George Floyd protesters turn White House fence into memorial wall,-1
+0.25,0.526,0.224,0.1531,Black armed protesters march in Kentucky demanding justice for Breonna Taylor,1
+0.16,0.84,0.0,-0.2263,Federal judge blocks Texas governor's order limiting mail ballot drop-off locations,-1
+0.444,0.556,0.0,-0.802,Woman who lied about being raped on college campus gets jail,-1
+0.0,0.909,0.091,0.0772,Tech writer suggests '10 Year Challenge' may be collecting data for facial recognition algorithm,0
+0.205,0.795,0.0,-0.7579,"F.D.A. Bans School Electric Shock Devices. The ban is national, but it is squarely targeted at a single school in Massachusetts that has been using electric shocks to condition students’ behavior for decades.",-1
+0.286,0.714,0.0,-0.5574,Poll worker fired for turning away voters with BLM shirts,-1
+0.307,0.693,0.0,-0.4767,Student suspended after showing fellow students without masks,-1
+0.281,0.719,0.0,-0.6486,Juice Wrld dead at 21 after seizure at Chicago's Midway Airport: report,-1
+0.0,1.0,0.0,0.0,"Dow falls 1,191 points -- the most in history",0
+0.275,0.534,0.191,-0.2732,UPS ends ban on beards and natural Black hairstyles,-1
+0.2,0.8,0.0,-0.5423,Kyle Rittenhouse says he used coronavirus stimulus check to buy AR-15 used in fatal shooting,-1
+0.195,0.632,0.174,-0.1027,A Kentucky tattoo shop is offering to cover up hate and gang symbols for free,-1
+0.322,0.678,0.0,-0.8591,A bus driver in the south-west of France has been left brain dead after being attacked by passengers who refused to wear face masks.,-1
+0.0,1.0,0.0,0.0,Louisiana man serving life for $30 marijuana sale set to be released under deal with DA,0
+0.196,0.804,0.0,-0.5994,"911 call from Breonna Taylor's shooting death released: ""Somebody kicked in the door and shot my girlfriend""",-1
+0.0,1.0,0.0,0.0,Dr. Fauci Named Federal Employee of the Year,0
+0.275,0.725,0.0,-0.6486,Jeff Bezos (CEO of Amazon) is refusing a request for testimony from congress while they threaten subpoena.,-1
+0.0,1.0,0.0,0.0,Twenty-Two Attorneys General Sue The FCC Over Net Neutrality Repeal,0
+0.0,1.0,0.0,0.0,University of Alabama orders faculty to keep quiet about outbreak,0
+0.217,0.783,0.0,-0.5719,The AP has learned ex-Michigan Gov. Snyder and others have been told they’re being charged in Flint water scandal.,-1
+0.29,0.71,0.0,-0.6705,Suicide claimed more Japanese lives in October than 10 months of COVID,-1
+0.0,1.0,0.0,0.0,Etsy to Remove All QAnon Merchandise,0
+0.18,0.683,0.137,-0.1779,"Denmark, Germany, Netherlands and Finland join countries halting weapons sales to Saudi Arabia",-1
+0.0,0.865,0.135,0.4215,"Joe Biden officially sworn in as the 46th President of the United States, Kamala Harris as the 49th Vice-President",1
+0.203,0.797,0.0,-0.4215,Former pharma CEO pleads guilty to bribing doctors to prescribe addictive opioids,-1
+0.199,0.738,0.063,-0.5719,"A high school student is growing out his hair for his sick sister. When administrators asked him to cut it, he withdrew from school",-1
+0.356,0.644,0.0,-0.8016,Student who feared for life in speeding Uber furious company first offered her $5 voucher,-1
+0.0,0.822,0.178,0.0772,Japanese police want to question Logan Paul,0
+0.437,0.563,0.0,-0.7351,Five officials will face manslaughter charges for Flint water crisis,-1
+0.156,0.709,0.135,-0.0772,New York City breaks record: 58 straight days with no pedestrian deaths,0
+0.0,1.0,0.0,0.0,Masks will be required in Kentucky starting July 10,0
+0.191,0.809,0.0,-0.3818,"CA, NY & WA taking steps to fight back after repeal of NN",-1
+0.0,0.88,0.12,0.128,"Japanese woman turns 117 years old, extends record as world's oldest person",1
+0.37,0.63,0.0,-0.6908,'Epstein Didn’t Kill Himself' Mardi Gras float causes a stir,-1
+0.286,0.714,0.0,-0.6808,Atlanta mayor: 2 police officers fired after body-camera footage showed they used excessive force in protest incident,-1
+0.0,0.66,0.34,0.5574,"Eddie Van Halen, Guitar Hero, Dies At 65",1
+0.247,0.753,0.0,-0.5574,"With no end in sight to government shutdown, TSA agents at Hawaii airports start to resign",-1
+0.136,0.864,0.0,-0.296,"Aurora Police did not have basis to stop, frisk or restrain Elijah McClain, investigation finds",-1
+0.115,0.885,0.0,-0.296,N.J. couple’s baby was taken after N.C. traffic stop. They’ve been trying for weeks to get him back.,-1
+0.427,0.573,0.0,-0.7717,"Former Army captain, Florida state house candidate arrested in Capitol riot",-1
+0.357,0.643,0.0,-0.836,Christian Cooper is asking people to stop making death threats against the woman who called the cops on him,-1
+0.396,0.497,0.107,-0.4721,Michigan governor extends state emergency order despite Trump tweet backing protesters,-1
+0.0,1.0,0.0,0.0,Hospitals will have to post prices online starting January 1,0
+0.0,0.781,0.219,0.1027,US Defence Secretary Mattis to quit,1
+0.0,1.0,0.0,0.0,EPA is now allowing asbestos back into manufacturing,0
+0.34,0.66,0.0,-0.5574,Donald Trump impeached for ‘inciting’ US Capitol riot,-1
+0.485,0.515,0.0,-0.765,Ex-Boston Police Union Pres. Charged With Raping 4 More Children,-1
+0.122,0.641,0.237,0.4215,"FBI: $50,000 Reward For Info On Suspected Pipe Bomber at U.S. Capitol",1
+0.118,0.756,0.126,0.0258,Alex Jones must pay legal fees for ’frivolous’ Sandy Hook appeal,0
+0.383,0.617,0.0,-0.7351,Tony Hawk announces his mother has died after a long battle with Alzheimer's,-1
+0.0,0.839,0.161,0.3182,"Breonna Taylor's boyfriend, Kenneth Walker: ""I'm a million percent sure"" police didn't identify themselves",1
+0.175,0.825,0.0,-0.5574,A principal in Florida said he couldn't confirm the Holocaust was a 'factual' event. The school district just fired him,-1
+0.518,0.482,0.0,-0.5106,Buffalo police unit resigns in protest,-1
+0.197,0.427,0.376,0.2732,Senate approves bill to extend 9/11 victims fund,1
+0.0,1.0,0.0,0.0,Waffle House closes 365 locations across the U.S.,0
+0.375,0.625,0.0,-0.8625,Australian senator who blamed Muslim immigration for the New Zealand terror attack punches teenager in head after getting egged.,-1
+0.0,1.0,0.0,0.0,"Chicago teachers vote to teach from home, defying district",0
+0.173,0.679,0.148,-0.1027,Teen who shared photo of packed high school hallway says she's receiving threats,-1
+0.138,0.862,0.0,-0.34,"Jailers Interrupt Ghislaine Maxwell's Sleep Every 15 Minutes to Check If She's Still Breathing, Lawyer Says",-1
+0.386,0.526,0.088,-0.7783,Leaked emails show Washington state Rep. Matt Shea endorsed training children to fight in holy war,-1
+0.268,0.732,0.0,-0.5106,Campaign to 'thank' Xi Jinping flatly rejected by Wuhan citizens,-1
+0.0,1.0,0.0,0.0,"Federal appeals court rules 2-1, you have the right to film the police",0
+0.0,1.0,0.0,0.0,Steve Bannon indicted in scheme to defraud donors to campaign pledging to build border wall,0
+0.379,0.621,0.0,-0.9612,"Brutal beating in Iowa should be investigated as hate crime, NAACP says. A black man was leaving his girlfriend's house when he was attacked by white men who accused him of being a burglar, according to the civil rights organization",-1
+0.0,1.0,0.0,0.0,Trump revealed highly classified information to Russian foreign minister and ambassador,0
+0.174,0.826,0.0,-0.2732,Fulton DA announces charges against 6 Atlanta officers in excessive force case,-1
+0.291,0.709,0.0,-0.6249,Ambien-maker to Roseanne: Racism is not a side effect of our drug,-1
+0.0,1.0,0.0,0.0,Millennials earn 20% less than Boomers did at same stage of life,0
+0.167,0.833,0.0,-0.1531,Corey Feldman launches campaign to expose Hollywood pedophile ring,-1
+0.0,1.0,0.0,0.0,Fox paid $400m for the World Cup and now the USA aren't in it,0
+0.0,1.0,0.0,0.0,"FEMA Contract Called for 30 Million Meals for Puerto Ricans. 50,000 Were Delivered.",0
+0.0,0.833,0.167,0.296,Ex-Trump adviser sold $31m in shares days before president announced steel tariffs,1
+0.268,0.732,0.0,-0.6597,US to deploy thousands of additional troops to Middle East following Soleimani killing,-1
+0.0,1.0,0.0,0.0,"Twitter Employees Can Work From Home Forever, CEO says",0
+0.0,1.0,0.0,0.0,Nike Pulls Houston Rockets Merchandise From China Stores,0
+0.208,0.792,0.0,-0.4939,James Alex Fields Jr. sentenced: Man gets life plus 419 years in deadly Charlottesville car attack - CBS News,-1
+0.0,0.829,0.171,0.5106,"Vancouver officers free to smoke pot, so long as they arrive ‘fit for duty,’ police board says",1
+0.439,0.303,0.258,-0.34,Twitter hides Trump tweet for 'glorifying violence',-1
+0.231,0.769,0.0,-0.6705,"Black woman shot and killed after Kentucky police entered her home as she slept, family says",-1
+0.0,1.0,0.0,0.0,"Kanye West donates $2 million, pays college tuition for George Floyd's daughter",0
+0.0,1.0,0.0,0.0,"Minneapolis police officers must keep body cameras turned on during entire response to a call, new policy says",0
+0.0,1.0,0.0,0.0,Billionaire David Koch dies at age 79,0
+0.264,0.736,0.0,-0.6486,"Elderly couple found dead in apparent murder-suicide, left notes about high medical bills",-1
+0.489,0.511,0.0,-0.7717,"Jeffrey Epstein, accused sex trafficker, dies by suicide: Officials",-1
+0.198,0.802,0.0,-0.4939,Birx says Americans who gathered for Thanksgiving should assume they're infected and get tested,-1
+0.0,1.0,0.0,0.0,Texas park ranger pushed into water after reminding crowd about social distancing,0
+0.209,0.791,0.0,-0.4404,Facebook will block Trump from posting for the remainder of his term,-1
+0.0,1.0,0.0,0.0,Ginsburg will become the first woman in history to lie in state in US Capitol,0
+0.447,0.451,0.102,-0.8126,Investigators recommend no charges for US Capitol Police officer accused of killing pro-Trump rioter during insurrection,-1
+0.156,0.844,0.0,-0.34,Arrest warrant issued for Tampa megachurch pastor who led packed services despite safer-at-home orders,-1
+0.0,0.769,0.231,0.4019,"Robinhood appears to halt support on Reddit-driven GameStop, AMC stocks",1
+0.0,0.727,0.273,0.5423,Man who inspired ALS Ice Bucket Challenge succumbs to the disease at age 46,1
+0.0,1.0,0.0,0.0,Family O Five YouTube taken down permanently,0
+0.383,0.617,0.0,-0.7351,3 arrested in attack of Chili's hostess who was enforcing coronavirus dining rules,-1
+0.176,0.687,0.137,-0.128,Treasury and IRS to delay tax season deadline by 90 days,-1
+0.588,0.412,0.0,-0.886,"Accused gunman in Christchurch terror attacks denied newspaper, television and radio access",-1
+0.0,1.0,0.0,0.0,President Trump being taken to Walter Reed as a 'precautionary measure',0
+0.0,1.0,0.0,0.0,California launches initiative to place homeless in hotel rooms,0
+0.0,1.0,0.0,0.0,US weekly jobless claims double to 6.6 million,0
+0.0,1.0,0.0,0.0,Teen registered people to vote as they waited in Popeyes line for new chicken sandwich,0
+0.0,0.833,0.167,0.34,Right-wing social media app Parler has been removed from the Google Play store,1
+0.154,0.726,0.12,-0.2023,"Simon the Rabbit, destined to break a world record for biggest rabbit, has died in the custody of United Airlines",-1
+0.147,0.713,0.139,-0.0431,Man arrested for groping woman on flight says 'President says it's OK to grab women's private parts',0
+0.0,1.0,0.0,0.0,Fauci says it might be time to mandate masks as Covid-19 surges across US,0
+0.295,0.705,0.0,-0.7717,"Jail video surveillance from Jeffrey Epstein's first suicide attempt in July is missing, prosecutor says, according to reports",-1
+0.126,0.874,0.0,-0.0762,U.S. officials defend Portland crackdown: 'We're not going to apologize',0
+0.196,0.804,0.0,-0.296,No more Mondays: Colorado school district moves to 4 day weeks,-1
+0.213,0.628,0.159,-0.2732,'Batkid' is now cancer free 5 years after taking over city of San Francisco with Make-A-Wish,-1
+0.0,1.0,0.0,0.0,Arizona Senator John McCain has passed away at the age of 81,0
+0.0,1.0,0.0,0.0,New York City to try responding to mental health calls without police,0
+0.306,0.694,0.0,-0.6486,Pentagon chief says no specific evidence Iran was plotting to attack four U.S. embassies,-1
+0.167,0.833,0.0,-0.2023,New England Patriots owner Robert Kraft charged with soliciting prositution,-1
+0.0,1.0,0.0,0.0,Colin Kaepernick becomes the face of Nike’s 30th anniversary ‘Just Do It’ campaign,0
+0.359,0.539,0.102,-0.6486,"Amazon to drop Parler from its web hosting service, citing violent posts",-1
+0.243,0.757,0.0,-0.6705,Family sues after 26-year-old EMT is shot and killed by police in her own home,-1
+0.0,1.0,0.0,0.0,Denver outlawed declawing cats,0
+0.0,1.0,0.0,0.0,"NYPD Officer Luis Alvarez, 9/11 First Responder Who Testified Before Congress With Jon Stewart, Dies",0
+0.191,0.809,0.0,-0.3818,California State Senate passes bill restricting gifts from pharma companies to doctors,-1
+0.167,0.833,0.0,-0.296,Oxygen-dependent man dies 12 minutes after PG&E cuts power to his home,-1
+0.181,0.714,0.104,-0.34,"Outrage ensues as Michigan grants Nestlé permit to extract 200,000 gallons of water per day",-1
+0.0,0.652,0.348,0.4939,Trump withdrawing US from Paris climate agreement,1
+0.168,0.657,0.175,0.0258,#DeleteFacebook Movement Gains Steam After 50 Million Users Have Data Leaked,0
+0.0,1.0,0.0,0.0,Trump Administration Closing Military Newspaper that Informs Troops — and Speaks for Them,0
+0.371,0.629,0.0,-0.7579,Wife of officer charged with murder of George Floyd announces she's divorcing him,-1
+0.0,0.923,0.077,0.128,"Police seize almost 7,000 pounds of cannabis from a truck. But the company that bought it says it's all legal",1
+0.0,0.819,0.181,0.4767,Popularity of Netflix's 'Tiger King' prompts sheriff to ask for leads in 1997 cold case,1
+0.259,0.741,0.0,-0.2732,Covid deniers removed from at capacity hospital,-1
+0.457,0.543,0.0,-0.8779,"Jury rules Monsanto liable in weed killer case - ordered to pay $250,000,000 for causing cancer",-1
+0.111,0.889,0.0,-0.25,The Museum of London Has Acquired That Giant 'Trump Baby' Balloon for Its Collection of Protest Art,-1
+0.0,1.0,0.0,0.0,Pelosi announces formal impeachment inquiry,0
+0.456,0.544,0.0,-0.7717,"Twitter has suspended 70,000 QAnon accounts since U.S. Capitol riot",-1
+0.164,0.603,0.233,0.2023,March for Science: Worldwide protests begin to support 'evidence',1
+0.0,1.0,0.0,0.0,Virgin Islands government subpoenas multiple banks for Jeffrey Epstein's financial records,0
+0.0,1.0,0.0,0.0,Simon & Schuster refuses to distribute book by officer who shot Breonna Taylor,0
+0.531,0.469,0.0,-0.7783,School condemns Trump-supporting students who harassed Native American,-1
+0.247,0.753,0.0,-0.5574,Agents raid home of fired Florida data scientist who built COVID-19 dashboard,-1
+0.0,1.0,0.0,0.0,Trump has left the White House for the last time as President,0
+0.0,0.803,0.197,0.4019,White House turns down offers from CDC to help with contact tracing,1
+0.441,0.559,0.0,-0.7964,Hong Kong police caught on camera torturing arrested man in hospital,-1
+0.369,0.631,0.0,-0.802,Harvey Weinstein sentenced to 23 years in prison for sex assault in case that sparked 'MeToo' movement,-1
+0.167,0.833,0.0,-0.296,"McDonald’s Says ‘No Mask, No Hamburgers’ In New Ruling On Face Coverings",-1
+0.381,0.619,0.0,-0.8126,‘You’re Gonna Kill Me’: Body-Cam Footage Shows Cops Mocking Dallas Man as He Dies,-1
+0.505,0.495,0.0,-0.8481,"Child porn ring leader beaten to death at detention center, authorities say",-1
+0.262,0.738,0.0,-0.5994,All former officers involved in George Floyd's death are now in custody,-1
+0.0,1.0,0.0,0.0,AP Calls Nevada For Joe Biden,0
+0.237,0.763,0.0,-0.4767,"Capitol Rioter Seen in Horned Hat, Carrying Spear Arrested: US Attorney",-1
+0.0,1.0,0.0,0.0,Parler CEO Says Service Dropped By “Every Vendor” Could End Business,0
+0.286,0.714,0.0,-0.34,Black gun owners plan pro-Second Amendment walk,-1
+0.0,1.0,0.0,0.0,Net Neutrality Overturned,0
+0.212,0.788,0.0,-0.6486,Killer Mike's new Black-owned bank receives 'tens of thousands' of account requests in less than 24 hours,-1
+0.16,0.84,0.0,-0.2732,New probe confirms Trump officials blocked Puerto Rico from receiving hurricane aid,-1
+0.277,0.723,0.0,-0.8689,"Nearly 200,000 people have signed a petition to have Logan Paul kicked off YouTube after controversy over his filming of a dead body in Japan's 'Suicide Forest'",-1
+0.184,0.816,0.0,-0.5574,"A veteran died in a Florida jail. Two years later, video shows he was tased, left convulsing in a cell.",-1
+0.038,0.699,0.262,0.7506,"When gunman advanced on New Zealand mosque, this man ran At Him: Abdul Aziz, 48, is being hailed as a hero for preventing more deaths",1
+0.119,0.746,0.134,0.0772,Grandma and young man she accidentally invited to Thanksgiving are spending their fourth holiday together - CBS News,0
+0.0,1.0,0.0,0.0,Dad turns in teenage son after finding child pornography on cell phone,0
+0.0,1.0,0.0,0.0,NASCAR bans Confederate flag from its races and properties,0
+0.333,0.667,0.0,-0.6705,Capitol Police order evacuation of some Capitol complex buildings as protests rage outside,-1
+0.231,0.769,0.0,-0.5574,"Detroit family caught in Iraq travel ban, mom dies waiting to come home",-1
+0.179,0.52,0.301,0.2732,Michigan powerlifter heroically lifts vehicle pinned on top of man after accident.,1
+0.247,0.753,0.0,-0.5574,Baltimore votes to become first large U.S. city to ban water privatization,-1
+0.424,0.576,0.0,-0.9325,A vegan couple have been charged with first-degree murder after their 18-month-old son starved to death on a diet of only raw fruit and vegetables,-1
+0.375,0.625,0.0,-0.8316,"Church pastor who repeatedly raped children after ""holy baths"" has been jailed for 34 years",-1
+0.0,0.571,0.429,0.8402,"The teacher who disarmed, then hugged a student will receive the citizen Congressional Medal of Honor",1
+0.0,0.735,0.265,0.5574,"U.S. Supreme Court lets Flint, Michigan residents sue over water contamination",1
+0.0,1.0,0.0,0.0,"This zoo will name a cockroach after your ex, then feed it to a meerkat on Valentine's Day.",0
+0.0,1.0,0.0,0.0,Indianapolis Decriminalizes Marijuana,0
+0.177,0.823,0.0,-0.4215,Hedge fund billionaire Steve Cohen leaves Twitter after family receives threats amid GameStop backlash,-1
+0.216,0.784,0.0,-0.5106,"Indiana man, 34, who impregnated 10-year-old girl, gets over 100 years in prison",-1
+0.409,0.455,0.136,-0.6124,Medically assisted suicide becomes legal in Hawaii,-1
+0.262,0.738,0.0,-0.5994,US Ice officers 'used torture to make Africans sign own deportation orders',-1
+0.0,1.0,0.0,0.0,House votes to strip Rep. Marjorie Taylor Greene of committee assignments,0
+0.0,1.0,0.0,0.0,Sinclair Forces Local TV Stations to Air Segment Defending Tear-Gassing Migrants,0
+0.0,0.756,0.244,0.4404,US health insurers doubled profits in second quarter amid pandemic,1
+0.0,1.0,0.0,0.0,Bernie Sanders drops out of the presidential race,0
+0.196,0.804,0.0,-0.296,Delta adds 460 passengers who refused masks to 'no-fly' list,-1
+0.0,1.0,0.0,0.0,"US Initial Jobless Claims skyrocket to 3,283,000",0
+0.13,0.87,0.0,-0.2023,R. Kelly Is Charged With Using Bribes to Marry Aaliyah at Age 15,-1
+0.189,0.811,0.0,-0.2732,Harvey Weinstein Indicted in Los Angeles on Sex Crimes Charges,-1
+0.0,1.0,0.0,0.0,Dr. Anthony Fauci to throw first pitch for Nationals on Opening Day,0
+0.16,0.84,0.0,-0.2732,"Philadelphia DA Larry Krasner Sues Big Pharma, Drops All Marijuana Possession Charges",-1
+0.308,0.427,0.265,-0.128,California officer associated with Proud Boys fired,-1
+0.188,0.812,0.0,-0.4588,"Colorado Springs man reportedly robs bank, throws money into the air and yells,”Merry Christmas”",-1
+0.111,0.889,0.0,-0.3612,"""You wouldn't think you'd go to jail over medical bills"": County in rural Kansas is jailing people over unpaid medical debt",-1
+0.322,0.678,0.0,-0.6908,Las Cruces officer heard saying 'I'm going to... choke you out' before suspect dies,-1
+0.213,0.787,0.0,-0.4019,Fox News publishes digitally altered and misleading images of Seattle demonstrations,-1
+0.2,0.8,0.0,-0.3612,Child sex offenders to be named as such in US passports,-1
+0.0,1.0,0.0,0.0,All 50 states and DC have now certified their presidential election results,0
+0.239,0.761,0.0,-0.6808,"Houston woman accused of offering to sell her 2-year-old daughter for sex at a cost of $1,200 has been sentenced to 40 years in prison.",-1
+0.0,0.803,0.197,0.4019,Emails Show Trump Jr. Knew Russia Was Working To Support Trump Campaign,1
+0.154,0.846,0.0,-0.4767,Woman who falsely said Black teen stole her phone in NYC hotel arrested in home state of California,-1
+0.179,0.821,0.0,-0.34,US police arrest 36-year-old nurse after patient in a vegetative state gave birth,-1
+0.545,0.455,0.0,-0.7184,Post-election audits find no fraud in Arizona,-1
+0.248,0.752,0.0,-0.5106,"Video showing hundreds of shackled, blindfolded prisoners in China is 'genuine'",-1
+0.141,0.859,0.0,-0.2023,Minnesota AG says 4 officers will be charged to 'highest degree of accountability',-1
+0.0,1.0,0.0,0.0,THP trooper terminated after pulling face mask off protester,0
+0.386,0.524,0.09,-0.802,"Woman, child dead from carbon monoxide poisoning after trying to stay warm in Texas",-1
+0.399,0.601,0.0,-0.9509,"Trans Woman Was Beaten in ICE Custody Before Death, Autopsy Finds -- Roxsana Rodriguez died following lack of medical treatment in a privately run immigration detention center. An autopsy concludes that she was beaten.",-1
+0.34,0.66,0.0,-0.8957,Alex Kearns died thinking he owed hundreds of thousands for stock market losses on Robinhood. His parents are set to sue over his suicide.,-1
+0.0,1.0,0.0,0.0,"Paul Manafort, Who Once Ran Trump Campaign, Told to Surrender",0
+0.0,0.902,0.098,0.0772,"President-elect Joe Biden clears 270-vote threshold in Electoral College count, formalizing his victory",0
+0.304,0.696,0.0,-0.5859,Muslim groups raise enough money to cover funeral costs for all Pittsburgh victims,-1
+0.172,0.828,0.0,-0.3612,The US debt is now projected to be larger than the US economy,-1
+0.247,0.567,0.186,-0.0516,Trump files emergency request with Supreme Court to stop release of his tax returns,0
+0.0,1.0,0.0,0.0,Federal Investigators Execute Search Warrant at Rudy Giuliani’s Apartment,0
+0.0,1.0,0.0,0.0,Holocaust survivors urge Facebook to remove denial posts,0
+0.107,0.893,0.0,-0.0516,Federal court backs California Gov. Gavin Newsom's orders keeping churches closed,0
+0.193,0.66,0.147,0.0258,NYPD officers are no longer protected from civil lawsuits after city council passes police reform legislation,0
+0.0,0.856,0.144,0.4019,Judge orders U.S. Postal Service to treat all election mail as 1st class or priority | CBC News,1
+0.174,0.826,0.0,-0.2263,Portland mayor bans cops from using tear gas during protests,-1
+0.173,0.827,0.0,-0.3182,YouTube star Daddyofive loses custody of two children featured in 'prank' video.,-1
+0.0,1.0,0.0,0.0,"Denver voters approve decriminalizing ""magic mushrooms""",0
+0.0,0.816,0.184,0.4019,Robert Mueller submits special counsel's Russia probe report to Attorney General William Barr,1
+0.192,0.808,0.0,-0.2263,"Protesters trample, burn LeBron James jerseys in Hong Kong",-1
+0.0,1.0,0.0,0.0,"Comcast, Cox, Frontier All Raising Internet Access Rates for 2018",0
+0.0,0.838,0.162,0.4019,California votes to bar schools from starting before 8:30am to help give students more sleep,1
+0.417,0.583,0.0,-0.6486,Report: Stan Lee dead at 95 - Story,-1
+0.34,0.66,0.0,-0.5574,Belgium declares loot boxes gambling and therefore illegal,-1
+0.172,0.625,0.203,0.1027,Missing Thai boys 'found alive' in caves after nine days,1
+0.0,1.0,0.0,0.0,Black man led by mounted police while bound with a rope sues Texas city for $1 million,0
+0.0,0.732,0.268,0.5106,Luxembourg is first country to make all public transport free,1
+0.146,0.854,0.0,-0.34,Providence fire union says police 'profiled' on-duty black firefighter when they held him at gunpoint,-1
+0.0,1.0,0.0,0.0,Shooting at South Florida high school,0
+0.447,0.553,0.0,-0.8885,"Pentagon whistleblowers say they were fired or suspended for reporting sexual assault cover-ups: ""People are afraid""",-1
+0.307,0.693,0.0,-0.4767,Buffalo police officers arrested after shoving 75-year-old protester,-1
+0.219,0.781,0.0,-0.4939,"Bank accidentally deposits $120,000 in couple’s account; they spend most of it, then get charged with theft",-1
+0.0,1.0,0.0,0.0,"Buffalo man punched in head repeatedly by officer plans to sue city, BPD and arresting officers",0
+0.0,1.0,0.0,0.0,College-bound high school football player ruled ineligible because he's homeless,0
+0.0,1.0,0.0,0.0,"Ghislaine Maxwell cannot keep deposition details secret, U.S. appeals court rules",0
+0.282,0.718,0.0,-0.6249,"Kentucky lawmaker who proposed ""Breonna's Law"" to end no-knock warrants statewide arrested at Louisville protest",-1
+0.286,0.714,0.0,-0.5574,New York Passes a Ban on ‘Conversion Therapy’ After Years-Long Efforts,-1
+0.429,0.571,0.0,-0.7184,R. Kelly charged with 11 new counts of sexual abuse,-1
+0.122,0.878,0.0,-0.1689,Home Depot to spend $1 billion more on employees' pay as sales surge,-1
+0.128,0.872,0.0,-0.2263,ABC cancels Roseanne Barr's sitcom after her tweet about black Obama aide Valerie Jarrett,-1
+0.173,0.6,0.227,0.2023,Jeff Bezos: World's richest man pledges $10bn to fight climate change,1
+0.375,0.625,0.0,-0.5574,Scientist Stephen Hawking has died aged 76,-1
+0.124,0.876,0.0,-0.4767,Radiohead Donates Money to Climate Change Group Instead of Paying Ransom to Hackers. The band released hours of hacked recordings rather than pay ransom money to the hacker who stole them.,-1
+0.367,0.633,0.0,-0.7003,Protesters rally outside Mitch McConnell's Louisville home in wake of RBG death,-1
+0.027,0.86,0.113,0.6254,"Kansas judge rules sperm donor not on hook for child support - A Topeka man who answered a Craigslist ad to donate sperm so two women could have a baby together is not legally the child's father and isn't required to provide financial support, a Kansas judge has ruled.",1
+0.0,0.87,0.13,0.0516,Blizzard apology does not silence protestors at BlizzCon 2019,0
+0.461,0.539,0.0,-0.8555,"Black man shot dead while jogging in Georgia, and two months later, no arrests",-1
+0.325,0.675,0.0,-0.6486,Warner's girlfriend warned police he was building a bomb in his RV last year,-1
+0.0,1.0,0.0,0.0,Facebook reports a decline in users in the U.S. and Canada,0
+0.466,0.534,0.0,-0.6249,"High turnover, understaffing, low pay: US nurses fight to unionize",-1
+0.174,0.826,0.0,-0.2263,Protesters set up guillotine outside of Jeff Bezos’ DC home,-1
+0.0,1.0,0.0,0.0,Stephen King quits Facebook over concerns of 'false information‘,0
+0.214,0.536,0.25,0.1531,"Verne Troyer, best known as Mini-Me in ""Austin Powers,"" has died",1
+0.176,0.686,0.137,-0.2023,A Trader Joe's worker says he was fired after writing to the CEO about Covid-19 safety protections,-1
+0.341,0.659,0.0,-0.4767,24 Australians arrested for deliberately setting fires,-1
+0.116,0.754,0.131,0.0772,"Bob Murray, Who Fought Against Black Lung Regulations As A Coal Operator, Has Filed For Black Lung Benefits",0
+0.252,0.748,0.0,-0.4019,"Elon musk pledges to fix Flint, MI water problem",-1
+0.096,0.904,0.0,-0.1531,"Disney to stop paying 100,000 workers but is still on track to give shareholders $1.5 billion",-1
+0.0,0.921,0.079,0.0516,"As Texas deep freeze subsides, some households now face electricity bills as high as $10,000",0
+0.0,0.678,0.322,0.5859,"Warnock, Ossoff win in Georgia, handing Dems Senate control",1
+0.344,0.656,0.0,-0.4939,Trump campaign loses lawsuit seeking to halt Michigan vote count,-1
+0.349,0.651,0.0,-0.7096,"ICE arrests rapper 21 Savage, says he is actually British and overstayed visa",-1
+0.073,0.927,0.0,-0.0258,Woman Who Called Michelle Obama An 'Ape' Sentenced To Jail For Defrauding FEMA of $18K,0
+0.0,1.0,0.0,0.0,A Utah substitute told fifth graders that ‘homosexuality is wrong.’ She was escorted out after 3 students spoke up.,0
+0.265,0.735,0.0,-0.5574,Chicago Police: 4 in custody after young man tortured on Facebook Live,-1
+0.0,1.0,0.0,0.0,Dolly Parton statue may replace KKK leader monument at the Tennessee capitol,0
+0.0,1.0,0.0,0.0,California ‘shattering prior election returns’ with 6m ballots already cast,0
+0.0,1.0,0.0,0.0,Gov. Northam signs bill to decriminalize marijuana in Virginia,0
+0.426,0.574,0.0,-0.6369,Capitol rioter charged with threatening to 'assassinate' Rep. Ocasio-Cortez,-1
+0.0,1.0,0.0,0.0,Federal judge rules women can get abortion pill without doctor visits,0
+0.0,1.0,0.0,0.0,"Joanne Rogers, wife of Mister Rogers, dies at age 92",0
+0.0,1.0,0.0,0.0,Joe Biden selects Kamala Harris as his running mate,0
+0.31,0.69,0.0,-0.6597,"USPS employee arrested after allegedly dumping mail, including ballots sent to New Jersey residents",-1
+0.0,1.0,0.0,0.0,One in 4 U.S. adults is now fully vaccinated,0
+0.0,1.0,0.0,0.0,India’s prime minister orders lockdown of country of 1.3 billion people for 21 days,0
+0.313,0.687,0.0,-0.7501,Korea leaders release joint statement declaring there will be no more war on the Korean Peninsula,-1
+0.0,1.0,0.0,0.0,Single anonymous donor gives $40 million to fund 50 civil rights lawyers,0
+0.0,1.0,0.0,0.0,Washington state governor OKs bill banning for-profit jails,0
+0.388,0.5,0.113,-0.6597,"In rare joint message, top U.S. military leaders condemn Capitol riot",-1
+0.191,0.809,0.0,-0.3182,President Donald Trump ordered to pay $2M to collection of nonprofits as part of civil lawsuit,-1
+0.0,1.0,0.0,0.0,Head of NYPD union gives Fox News interview with QAnon mug in background,0
+0.0,0.806,0.194,0.34,Trump's chief strategist Steve Bannon stripped of national security council role,1
+0.0,0.621,0.379,0.7269,Trudeau says any approved COVID-19 vaccine will be free for all Canadians,1
+0.62,0.38,0.0,-0.9081,"Chauvin found guilty of murder, manslaughter in George Floyd's death",-1
+0.134,0.563,0.303,0.34,Portland sees peaceful night of protests following withdrawal of federal troops,1
+0.386,0.614,0.0,-0.5267,'Pharma bro' Martin Shkreli sentenced to 7 years in prison,-1
+0.236,0.764,0.0,-0.5267,"Multiple boats in distress, sinking at Trump Boat Parade on Lake Travis",-1
+0.0,1.0,0.0,0.0,Ellen Pao Is Stepping Down as Reddit’s Chief,0
+0.0,0.75,0.25,0.6124,19 families buy nearly 97 acres of land in Georgia to create a city safe for Black people,1
+0.274,0.619,0.106,-0.5859,Pharma bro Martin Shkreli is denied minimum security camp and sent to federal prison in New Jersey,-1
+0.0,1.0,0.0,0.0,U.S. judge orders USPS to reinforce 'extraordinary measures' ballot delivery policy,0
+0.096,0.745,0.16,0.2023,"Amazon hired an army of employees to say nice things about it on Twitter, and it shows how big its reputation problem has gotten",1
+0.0,0.744,0.256,0.4767,Gay men have taken over the Proud Boys Twitter hashtag,1
